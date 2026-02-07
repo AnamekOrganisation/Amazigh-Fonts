@@ -22,7 +22,11 @@ document.addEventListener('DOMContentLoaded', () => {
             footerText: '© 2026 Unicode Fonts For Amazigh Tifinagh. جميع الحقوق محفوظة.',
             noFonts: 'لم يتم العثور على خطوط تطابق بحثك.',
             error: 'حدث خطأ أثناء تحميل البيانات.',
-            filtering: 'جاري التصفية...'
+            filtering: 'جاري التصفية...',
+            copyCSS: 'نسخ CSS',
+            charMap: 'خريطة الحروف',
+            showFavorites: 'المفضلة فقط',
+            copied: 'تم نسخ الكود بنجاح!'
         },
         en: {
             title: 'Tifinagh Fonts',
@@ -36,7 +40,11 @@ document.addEventListener('DOMContentLoaded', () => {
             footerText: '© 2026 Unicode Fonts For Amazigh Tifinagh. All rights reserved.',
             noFonts: 'No fonts found matching your search.',
             error: 'An error occurred while loading data.',
-            filtering: 'Filtering...'
+            filtering: 'Filtering...',
+            copyCSS: 'Copy CSS',
+            charMap: 'Glyphs',
+            showFavorites: 'Favorites Only',
+            copied: 'CSS copied to clipboard!'
         },
         fr: {
             title: 'Polices Tifinagh',
@@ -50,7 +58,11 @@ document.addEventListener('DOMContentLoaded', () => {
             footerText: '© 2026 Unicode Fonts For Amazigh Tifinagh. Tous droits réservés.',
             noFonts: 'Aucune police trouvée correspondant à votre recherche.',
             error: 'Une erreur est survenue lors du chargement des données.',
-            filtering: 'Filtrage...'
+            filtering: 'Filtrage...',
+            copyCSS: 'Copier CSS',
+            charMap: 'Glyphes',
+            showFavorites: 'Favoris uniquement',
+            copied: 'CSS copié !'
         },
         zgh: {
             title: 'ⵉⵙⴽⴽⵉⵍⵏ ⵏ ⵜⵉⴼⵉⵏⴰⵖ',
@@ -64,7 +76,11 @@ document.addEventListener('DOMContentLoaded', () => {
             footerText: '© 2026 Unicode Fonts For Amazigh Tifinagh. ⵎⴰⵕⵕⴰ ⵉⵣⵔⴼⴰⵏ ⵓⴳⴳⵉⵏ.',
             noFonts: 'ⵓⵔ ⵏⵓⴼⵉ ⴰⵎⵢⴰⵏ ⵏ ⵓⵙⴽⴽⵉⵍ.',
             error: 'ⵜⵍⵍⴰ ⵜⴳⵓⵔⵉ ⴳ ⵓⵣⴷⴰⵢ ⵏ ⵉⵙⴼⴽⴰ.',
-            filtering: 'ⴰⵣⵔⴰⵔ...'
+            filtering: 'ⴰⵣⵔⴰⵔ...',
+            copyCSS: 'ⴰⴳⴰⵎ ⵏ CSS',
+            charMap: 'ⵉⵙⴽⴽⵉⵍⵏ',
+            showFavorites: 'ⵉⴱⵓⵀⵍⵢⵏ ⴷⴰⴽⴰⵏ',
+            copied: 'ⵜⴻⵎⵎⴰ ⵜⵓⴳⴳⵓⵜ ⵏ CSS!'
         }
     };
 

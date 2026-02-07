@@ -1,2057 +1,1952 @@
 [
     {
-        "name": "NotoSansTifinagh Regular",
-        "file": "NotoSansTifinagh-Regular.ttf",
+        "name": "AMDAL Regular",
+        "file": "fonts/AMDAL-Regular.ttf",
+        "category": "General"
+    },
+    {
+        "name": "AMDAL Regular",
+        "file": "fonts/AMDAL-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "Adlis",
+        "file": "fonts/Adlis.otf",
         "category": "General"
     },
     {
         "name": "Adlis Regular2",
-        "file": "Adlis-Regular2.otf",
+        "file": "fonts/Adlis-Regular2.otf",
         "category": "General"
     },
     {
-        "name": "Ayt Lmuddn Mrym",
-        "file": "Ayt Lmuddn Mrym.ttf",
-        "category": "General"
-    },
-    {
-        "name": "SECNaskhArabic Bold",
-        "file": "SECNaskhArabic-Bold.ttf",
-        "category": "General"
-    },
-    {
-        "name": "Tifinagh Abudrar Normal",
-        "file": "Tifinagh Abudrar Normal.ttf",
-        "category": "General"
-    },
-    {
-        "name": "FreeSansBoldOblique g9mR",
-        "file": "FreeSansBoldOblique-g9mR.ttf",
-        "category": "General"
-    },
-    {
-        "name": "AfusDegWfus1 Regular",
-        "file": "AfusDegWfus1-Regular.otf",
-        "category": "General"
-    },
-    {
-        "name": "AlMotLaQ V2.5",
-        "file": "AlMotLaQ-V2.5.ttf",
-        "category": "General"
-    },
-    {
-        "name": "Tifinaghe IrcamUnicode Regular2",
-        "file": "Tifinaghe-IrcamUnicode-Regular2.otf",
-        "category": "General"
-    },
-    {
-        "name": "Tifinagh Abudrar Light web",
-        "file": "Tifinagh Abudrar Light web.ttf",
-        "category": "General"
-    },
-    {
-        "name": "caligraphie",
-        "file": "caligraphie.ttf",
-        "category": "General"
-    },
-    {
-        "name": "SECNaskhArabic Regular",
-        "file": "SECNaskhArabic-Regular.ttf",
-        "category": "General"
-    },
-    {
-        "name": "AmaikhaTifinagh Regular",
-        "file": "AmaikhaTifinagh-Regular.otf",
-        "category": "General"
-    },
-    {
-        "name": "agrawlan",
-        "file": "agrawlan.ttf",
-        "category": "General"
-    },
-    {
-        "name": "FreeSans LrmZ",
-        "file": "FreeSans-LrmZ.ttf",
-        "category": "General"
-    },
-    {
-        "name": "cactus",
-        "file": "cactus.ttf",
-        "category": "General"
-    },
-    {
-        "name": "goute",
-        "file": "goute.ttf",
-        "category": "General"
-    },
-    {
-        "name": "VideoGlau.sfd",
-        "file": "VideoGlau.sfd.ttf",
-        "category": "General"
-    },
-    {
-        "name": "FreeSansBold Xgdd",
-        "file": "FreeSansBold-Xgdd.ttf",
-        "category": "General"
-    },
-    {
-        "name": "izriri",
-        "file": "izriri.ttf",
-        "category": "General"
-    },
-    {
-        "name": "CODE2000",
-        "file": "CODE2000.TTF",
-        "category": "General"
-    },
-    {
-        "name": "DejavuSans MdPB",
-        "file": "DejavuSans-MdPB.ttf",
-        "category": "General"
-    },
-    {
-        "name": "Tifinaghe TawaltAmawalBold",
-        "file": "Tifinaghe-TawaltAmawalBold.otf",
-        "category": "General"
-    },
-    {
-        "name": "DejavuSansCondensedBoldOblique 7Xxw",
-        "file": "DejavuSansCondensedBoldOblique-7Xxw.ttf",
-        "category": "General"
-    },
-    {
-        "name": "VideoGlauBold.sfd",
-        "file": "VideoGlauBold.sfd.ttf",
-        "category": "General"
-    },
-    {
-        "name": "DejavuSansBold KEmZ",
-        "file": "DejavuSansBold-KEmZ.ttf",
-        "category": "General"
-    },
-    {
-        "name": "FreeSansBoldOblique BYJ3",
-        "file": "FreeSansBoldOblique-BYJ3.otf",
-        "category": "General"
-    },
-    {
-        "name": "NotoSansTifinagh Regular",
-        "file": "NotoSansTifinagh_Regular.ttf",
-        "category": "General"
-    },
-    {
-        "name": "Tifinaghe TawaltUnicode",
-        "file": "Tifinaghe-TawaltUnicode.ttf",
-        "category": "General"
-    },
-    {
-        "name": "FedraTifinagh2 Regular",
-        "file": "FedraTifinagh2-Regular.otf",
-        "category": "General"
-    },
-    {
-        "name": "DejavuSansCondensedOblique mVzj",
-        "file": "DejavuSansCondensedOblique-mVzj.ttf",
-        "category": "General"
-    },
-    {
-        "name": "T I UNICODE",
-        "file": "T_I_UNICODE.ttf",
-        "category": "General"
-    },
-    {
-        "name": "SECNaskhArabicUI Regular",
-        "file": "SECNaskhArabicUI-Regular.ttf",
-        "category": "General"
-    },
-    {
-        "name": "FsSongarak1Regular Vea0",
-        "file": "FsSongarak1Regular-Vea0.ttf",
-        "category": "General"
-    },
-    {
-        "name": "DejavuSansBoldOblique 23a3",
-        "file": "DejavuSansBoldOblique-23a3.ttf",
-        "category": "General"
-    },
-    {
-        "name": "tifi",
-        "file": "tifi.ttf",
-        "category": "General"
-    },
-    {
-        "name": "FreeSansOblique ol30",
-        "file": "FreeSansOblique-ol30.ttf",
-        "category": "General"
-    },
-    {
-        "name": "Tadlagt1 Regular",
-        "file": "Tadlagt1-Regular.otf",
-        "category": "General"
-    },
-    {
-        "name": "ferforge",
-        "file": "ferforge.ttf",
-        "category": "General"
-    },
-    {
-        "name": "Ammouri Tifinagh Outline",
-        "file": "Ammouri Tifinagh Outline.ttf",
-        "category": "General"
-    },
-    {
-        "name": "Kigelia Regular",
-        "file": "Kigelia-Regular.otf",
-        "category": "General"
-    },
-    {
-        "name": "AMDAL Regular",
-        "file": "AMDAL-Regular.ttf",
-        "category": "General"
-    },
-    {
-        "name": "TruetypewriterPolyglott mELa",
-        "file": "TruetypewriterPolyglott-mELa.ttf",
-        "category": "General"
-    },
-    {
-        "name": "anaviz",
-        "file": "anaviz.ttf",
-        "category": "General"
-    },
-    {
-        "name": "Tifinaghe TawaltAmawalBold",
-        "file": "Tifinaghe-TawaltAmawalBold.ttf",
-        "category": "General"
-    },
-    {
-        "name": "FreeSansOblique 8j92",
-        "file": "FreeSansOblique-8j92.otf",
-        "category": "General"
-    },
-    {
-        "name": "Code2000 rdLO",
-        "file": "Code2000-rdLO.ttf",
-        "category": "General"
-    },
-    {
-        "name": "LaContrastev0.1 Horizontale",
-        "file": "LaContrastev0.1-Horizontale.otf",
-        "category": "General"
-    },
-    {
-        "name": "AfusDegWfus2 Regular",
-        "file": "AfusDegWfus2-Regular.otf",
-        "category": "General"
-    },
-    {
-        "name": "Tabarawt Regular",
-        "file": "Tabarawt-Regular.otf",
-        "category": "General"
-    },
-    {
-        "name": "fedratifinagh",
-        "file": "fedratifinagh.otf",
-        "category": "General"
-    },
-    {
-        "name": "Tifinaghe TawaltUnicode",
-        "file": "Tifinaghe-TawaltUnicode.otf",
-        "category": "General"
-    },
-    {
-        "name": "Gutik Regular",
-        "file": "Gutik-Regular.ttf",
-        "category": "General"
-    },
-    {
-        "name": "DejaVuSans",
-        "file": "DejaVuSans.ttf",
-        "category": "General"
-    },
-    {
-        "name": "anbraz",
-        "file": "anbraz.ttf",
-        "category": "General"
-    },
-    {
-        "name": "DejavuSansCondensed vdzy",
-        "file": "DejavuSansCondensed-vdzy.ttf",
-        "category": "General"
-    },
-    {
-        "name": "Cartoon1471Extended x3oyq",
-        "file": "Cartoon1471Extended-x3oyq.ttf",
-        "category": "General"
-    },
-    {
-        "name": "Ammouri Tifinagh Shadow",
-        "file": "Ammouri Tifinagh Shadow.ttf",
-        "category": "General"
-    },
-    {
-        "name": "Kigelia Regular",
-        "file": "Kigelia_Regular.ttf",
-        "category": "General"
-    },
-    {
-        "name": "Ammouri Tifinagh Regular",
-        "file": "Ammouri Tifinagh Regular.ttf",
-        "category": "General"
-    },
-    {
-        "name": "Tifinagh Abudrar Light",
-        "file": "Tifinagh Abudrar Light.ttf",
-        "category": "General"
-    },
-    {
-        "name": "PressStart2P Regular",
-        "file": "PressStart2P-Regular.otf",
-        "category": "General"
-    },
-    {
-        "name": "DejavuSansOblique dvzg",
-        "file": "DejavuSansOblique-dvzg.ttf",
-        "category": "General"
-    },
-    {
-        "name": "Tifinaghe TawaltAmawal",
-        "file": "Tifinaghe-TawaltAmawal.ttf",
-        "category": "General"
-    },
-    {
-        "name": "Tifinaghe TawaltAmawal",
-        "file": "Tifinaghe-TawaltAmawal.otf",
-        "category": "General"
-    },
-    {
-        "name": "AMDAL Regular",
-        "file": "AMDAL-Regular.otf",
-        "category": "General"
-    },
-    {
-        "name": "inknign",
-        "file": "inknign.ttf",
-        "category": "General"
-    },
-    {
-        "name": "tifinagh abudrar normal web",
-        "file": "tifinagh abudrar normal web.ttf",
-        "category": "General"
-    },
-    {
-        "name": "FreeSansBold Rdmo",
-        "file": "FreeSansBold-Rdmo.otf",
-        "category": "General"
-    },
-    {
-        "name": "fedratifinagh",
-        "file": "fedratifinagh.ttf",
-        "category": "General"
-    },
-    {
-        "name": "AmaikhaTifinagh Regular",
-        "file": "AmaikhaTifinagh-Regular.ttf",
-        "category": "General"
-    },
-    {
-        "name": "tahoma",
-        "file": "tahoma.ttf",
-        "category": "General"
-    },
-    {
-        "name": "Quivira A8VL",
-        "file": "Quivira-A8VL.ttf",
-        "category": "General"
-    },
-    {
-        "name": "DejavuSansCondensedBold wdzP",
-        "file": "DejavuSansCondensedBold-wdzP.ttf",
+        "name": "Afulki",
+        "file": "fonts/Afulki.ttf",
         "category": "General"
     },
     {
         "name": "AfusDegWfus Regular",
-        "file": "AfusDegWfus-Regular.otf",
+        "file": "fonts/AfusDegWfus-Regular.otf",
         "category": "General"
     },
     {
-        "name": "Tifinaghe Ircam Unicode",
-        "file": "Tifinaghe-Ircam_Unicode.ttf",
+        "name": "AfusDegWfus1 Regular",
+        "file": "fonts/AfusDegWfus1-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "AfusDegWfus2 Regular",
+        "file": "fonts/AfusDegWfus2-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "Agoug unicode",
+        "file": "fonts/Agoug_unicode.ttf",
+        "category": "General"
+    },
+    {
+        "name": "Akatab Black",
+        "file": "fonts/Akatab-Black.ttf",
+        "category": "General"
+    },
+    {
+        "name": "Akatab Black(1)",
+        "file": "fonts/Akatab-Black(1).ttf",
+        "category": "General"
+    },
+    {
+        "name": "Akatab Bold",
+        "file": "fonts/Akatab-Bold.ttf",
+        "category": "General"
+    },
+    {
+        "name": "Akatab Bold(1)",
+        "file": "fonts/Akatab-Bold(1).ttf",
+        "category": "General"
+    },
+    {
+        "name": "Akatab ExtraBold",
+        "file": "fonts/Akatab-ExtraBold.ttf",
+        "category": "General"
+    },
+    {
+        "name": "Akatab ExtraBold(1)",
+        "file": "fonts/Akatab-ExtraBold(1).ttf",
+        "category": "General"
+    },
+    {
+        "name": "Akatab Medium",
+        "file": "fonts/Akatab-Medium.ttf",
+        "category": "General"
+    },
+    {
+        "name": "Akatab Medium(1)",
+        "file": "fonts/Akatab-Medium(1).ttf",
+        "category": "General"
+    },
+    {
+        "name": "Akatab Regular",
+        "file": "fonts/Akatab-Regular.ttf",
+        "category": "General"
+    },
+    {
+        "name": "Akatab Regular(1)",
+        "file": "fonts/Akatab-Regular(1).ttf",
+        "category": "General"
+    },
+    {
+        "name": "Akatab SemiBold",
+        "file": "fonts/Akatab-SemiBold.ttf",
+        "category": "General"
+    },
+    {
+        "name": "Akatab SemiBold(1)",
+        "file": "fonts/Akatab-SemiBold(1).ttf",
+        "category": "General"
+    },
+    {
+        "name": "AlMotLaQ V2.5",
+        "file": "fonts/AlMotLaQ-V2.5.ttf",
+        "category": "General"
+    },
+    {
+        "name": "AmaikhaTifinagh Regular",
+        "file": "fonts/AmaikhaTifinagh-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "AmaikhaTifinagh Regular",
+        "file": "fonts/AmaikhaTifinagh-Regular.ttf",
+        "category": "General"
+    },
+    {
+        "name": "Ammouri Tifinagh Outline",
+        "file": "fonts/Ammouri Tifinagh Outline.ttf",
+        "category": "General"
+    },
+    {
+        "name": "Ammouri Tifinagh Regular",
+        "file": "fonts/Ammouri Tifinagh Regular.ttf",
+        "category": "General"
+    },
+    {
+        "name": "Ammouri Tifinagh Shadow",
+        "file": "fonts/Ammouri Tifinagh Shadow.ttf",
+        "category": "General"
+    },
+    {
+        "name": "Asdar semibold",
+        "file": "fonts/Asdar_semibold.otf",
+        "category": "General"
+    },
+    {
+        "name": "Ayt Lmuddn Mrym",
+        "file": "fonts/Ayt Lmuddn Mrym.ttf",
+        "category": "General"
+    },
+    {
+        "name": "CODE2000",
+        "file": "fonts/CODE2000.TTF",
+        "category": "General"
+    },
+    {
+        "name": "Callircam Blk",
+        "file": "fonts/Callircam-Blk.otf",
+        "category": "IRCAM"
+    },
+    {
+        "name": "Cartoon1471Extended x3oyq",
+        "file": "fonts/Cartoon1471Extended-x3oyq.ttf",
+        "category": "General"
+    },
+    {
+        "name": "Code2000 rdLO",
+        "file": "fonts/Code2000-rdLO.ttf",
+        "category": "General"
+    },
+    {
+        "name": "DejaVuSans",
+        "file": "fonts/DejaVuSans.ttf",
+        "category": "General"
+    },
+    {
+        "name": "DejavuSans MdPB",
+        "file": "fonts/DejavuSans-MdPB.ttf",
+        "category": "General"
+    },
+    {
+        "name": "DejavuSansBold KEmZ",
+        "file": "fonts/DejavuSansBold-KEmZ.ttf",
+        "category": "General"
+    },
+    {
+        "name": "DejavuSansBoldOblique 23a3",
+        "file": "fonts/DejavuSansBoldOblique-23a3.ttf",
+        "category": "General"
+    },
+    {
+        "name": "DejavuSansCondensed vdzy",
+        "file": "fonts/DejavuSansCondensed-vdzy.ttf",
+        "category": "General"
+    },
+    {
+        "name": "DejavuSansCondensedBold wdzP",
+        "file": "fonts/DejavuSansCondensedBold-wdzP.ttf",
+        "category": "General"
+    },
+    {
+        "name": "DejavuSansCondensedBoldOblique 7Xxw",
+        "file": "fonts/DejavuSansCondensedBoldOblique-7Xxw.ttf",
+        "category": "General"
+    },
+    {
+        "name": "DejavuSansCondensedOblique mVzj",
+        "file": "fonts/DejavuSansCondensedOblique-mVzj.ttf",
+        "category": "General"
+    },
+    {
+        "name": "DejavuSansOblique dvzg",
+        "file": "fonts/DejavuSansOblique-dvzg.ttf",
+        "category": "General"
+    },
+    {
+        "name": "FaulmannFont JRMgj",
+        "file": "fonts/FaulmannFont-JRMgj.ttf",
+        "category": "General"
+    },
+    {
+        "name": "FedraTifinagh2 Regular",
+        "file": "fonts/FedraTifinagh2-Regular.otf",
         "category": "General"
     },
     {
         "name": "FreeSans 1Zge",
-        "file": "FreeSans-1Zge.otf",
+        "file": "fonts/FreeSans-1Zge.otf",
+        "category": "General"
+    },
+    {
+        "name": "FreeSans LrmZ",
+        "file": "fonts/FreeSans-LrmZ.ttf",
+        "category": "General"
+    },
+    {
+        "name": "FreeSansBold Rdmo",
+        "file": "fonts/FreeSansBold-Rdmo.otf",
+        "category": "General"
+    },
+    {
+        "name": "FreeSansBold Xgdd",
+        "file": "fonts/FreeSansBold-Xgdd.ttf",
+        "category": "General"
+    },
+    {
+        "name": "FreeSansBoldOblique BYJ3",
+        "file": "fonts/FreeSansBoldOblique-BYJ3.otf",
+        "category": "General"
+    },
+    {
+        "name": "FreeSansBoldOblique g9mR",
+        "file": "fonts/FreeSansBoldOblique-g9mR.ttf",
+        "category": "General"
+    },
+    {
+        "name": "FreeSansOblique 8j92",
+        "file": "fonts/FreeSansOblique-8j92.otf",
+        "category": "General"
+    },
+    {
+        "name": "FreeSansOblique ol30",
+        "file": "fonts/FreeSansOblique-ol30.ttf",
+        "category": "General"
+    },
+    {
+        "name": "FsSongarak1Regular Vea0",
+        "file": "fonts/FsSongarak1Regular-Vea0.ttf",
+        "category": "General"
+    },
+    {
+        "name": "Gutik Regular",
+        "file": "fonts/Gutik-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "Gutik Regular",
+        "file": "fonts/Gutik-Regular.ttf",
+        "category": "General"
+    },
+    {
+        "name": "Hapax Berbère, Regular",
+        "file": "fonts/Hapax Berbère, Regular.ttf",
+        "category": "General"
+    },
+    {
+        "name": "Hapax shipped",
+        "file": "fonts/Hapax_shipped.ttf",
+        "category": "General"
+    },
+    {
+        "name": "HapaxBAPT",
+        "file": "fonts/HapaxBAPT.ttf",
+        "category": "General"
+    },
+    {
+        "name": "HapaxBAPT(1)",
+        "file": "fonts/HapaxBAPT(1).ttf",
+        "category": "General"
+    },
+    {
+        "name": "HapaxDzN shipped",
+        "file": "fonts/HapaxDzN_shipped.ttf",
+        "category": "General"
+    },
+    {
+        "name": "HapaxDzNAn shipped",
+        "file": "fonts/HapaxDzNAn_shipped.ttf",
+        "category": "General"
+    },
+    {
+        "name": "HapaxDzNCl shipped",
+        "file": "fonts/HapaxDzNCl_shipped.ttf",
+        "category": "General"
+    },
+    {
+        "name": "HapaxTifinarCarre",
+        "file": "fonts/HapaxTifinarCarre.ttf",
+        "category": "General"
+    },
+    {
+        "name": "HapaxTifinarRond",
+        "file": "fonts/HapaxTifinarRond.ttf",
+        "category": "General"
+    },
+    {
+        "name": "Kigelia Regular",
+        "file": "fonts/Kigelia-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "Kigelia Regular",
+        "file": "fonts/Kigelia_Regular.ttf",
+        "category": "General"
+    },
+    {
+        "name": "LaContrastev0.1 Horizontale",
+        "file": "fonts/LaContrastev0.1-Horizontale.otf",
+        "category": "General"
+    },
+    {
+        "name": "Multiple cursive scripts",
+        "file": "fonts/Multiple_cursive_scripts.ttf",
+        "category": "General"
+    },
+    {
+        "name": "NotoSansTifinagh Regular",
+        "file": "fonts/NotoSansTifinagh-Regular.ttf",
+        "category": "General"
+    },
+    {
+        "name": "NotoSansTifinagh Regular",
+        "file": "fonts/NotoSansTifinagh_Regular.ttf",
+        "category": "General"
+    },
+    {
+        "name": "PressStart2P Regular",
+        "file": "fonts/PressStart2P-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "Quivira A8VL",
+        "file": "fonts/Quivira-A8VL.ttf",
+        "category": "General"
+    },
+    {
+        "name": "SECNaskhArabic Bold",
+        "file": "fonts/SECNaskhArabic-Bold.ttf",
+        "category": "General"
+    },
+    {
+        "name": "SECNaskhArabic Regular",
+        "file": "fonts/SECNaskhArabic-Regular.ttf",
         "category": "General"
     },
     {
         "name": "SECNaskhArabicUI Bold",
-        "file": "SECNaskhArabicUI-Bold.ttf",
+        "file": "fonts/SECNaskhArabicUI-Bold.ttf",
+        "category": "General"
+    },
+    {
+        "name": "SECNaskhArabicUI Regular",
+        "file": "fonts/SECNaskhArabicUI-Regular.ttf",
+        "category": "General"
+    },
+    {
+        "name": "T I UNICODE",
+        "file": "fonts/T_I_UNICODE.ttf",
+        "category": "General"
+    },
+    {
+        "name": "TFNGH UNICODE 1 AGRAGHLAN",
+        "file": "fonts/TFNGH-UNICODE-1-AGRAGHLAN.ttf",
+        "category": "General"
+    },
+    {
+        "name": "TFNGH UNICODE 1 TIDRFI",
+        "file": "fonts/TFNGH-UNICODE-1-TIDRFI.ttf",
+        "category": "General"
+    },
+    {
+        "name": "TFNGH UNICODE 1 TIDRFI bd",
+        "file": "fonts/TFNGH-UNICODE-1-TIDRFI_bd.ttf",
+        "category": "General"
+    },
+    {
+        "name": "TFNGH UNICODE 2 ADLIS",
+        "file": "fonts/TFNGH-UNICODE-2-ADLIS.ttf",
+        "category": "General"
+    },
+    {
+        "name": "TFNGH UNICODE 2 ADLIS bd",
+        "file": "fonts/TFNGH-UNICODE-2-ADLIS_bd.ttf",
+        "category": "General"
+    },
+    {
+        "name": "TFNGH UNICODE 2 TAGURI",
+        "file": "fonts/TFNGH-UNICODE-2-TAGURI.ttf",
+        "category": "General"
+    },
+    {
+        "name": "TFNGH UNICODE 2 TAGURI SIN",
+        "file": "fonts/TFNGH-UNICODE-2-TAGURI_SIN.ttf",
+        "category": "General"
+    },
+    {
+        "name": "TFNGH UNICODE 2 TAGURI SIN bdit",
+        "file": "fonts/TFNGH-UNICODE-2-TAGURI_SIN_bdit.ttf",
+        "category": "General"
+    },
+    {
+        "name": "TFNGH UNICODE 2 TAGURI bd",
+        "file": "fonts/TFNGH-UNICODE-2-TAGURI_bd.ttf",
+        "category": "General"
+    },
+    {
+        "name": "TIFINAGHE ABAQTICH",
+        "file": "fonts/TIFINAGHE_ABAQTICH.ttf",
+        "category": "General"
+    },
+    {
+        "name": "TIFINAGHE ABAQTICH",
+        "file": "fonts/TIFINAGHE_ABAQTICH.OTF",
+        "category": "General"
+    },
+    {
+        "name": "TIFINAGHE AFRAG",
+        "file": "fonts/TIFINAGHE_AFRAG.ttf",
+        "category": "General"
+    },
+    {
+        "name": "TIFINAGHE AFRAG",
+        "file": "fonts/TIFINAGHE_AFRAG.OTF",
+        "category": "General"
+    },
+    {
+        "name": "TIFINAGHE AMAWAS",
+        "file": "fonts/TIFINAGHE_AMAWAS.OTF",
+        "category": "General"
+    },
+    {
+        "name": "TIFINAGHE AMAWAS",
+        "file": "fonts/TIFINAGHE_AMAWAS.ttf",
+        "category": "General"
+    },
+    {
+        "name": "TIFINAGHE AMNNAGH",
+        "file": "fonts/TIFINAGHE_AMNNAGH.ttf",
+        "category": "General"
+    },
+    {
+        "name": "TIFINAGHE AMNNAGH",
+        "file": "fonts/TIFINAGHE_AMNNAGH.OTF",
+        "category": "General"
+    },
+    {
+        "name": "TIFINAGHE AMTROY",
+        "file": "fonts/TIFINAGHE_AMTROY.ttf",
+        "category": "General"
+    },
+    {
+        "name": "TIFINAGHE AMTROY",
+        "file": "fonts/TIFINAGHE_AMTROY.OTF",
+        "category": "General"
+    },
+    {
+        "name": "TIFINAGHE AMURAR",
+        "file": "fonts/TIFINAGHE_AMURAR.ttf",
+        "category": "General"
+    },
+    {
+        "name": "TIFINAGHE AMURAR",
+        "file": "fonts/TIFINAGHE_AMURAR.OTF",
+        "category": "General"
+    },
+    {
+        "name": "TIFINAGHE ANAFAW",
+        "file": "fonts/TIFINAGHE_ANAFAW.ttf",
+        "category": "General"
+    },
+    {
+        "name": "TIFINAGHE ANAFAW",
+        "file": "fonts/TIFINAGHE_ANAFAW.OTF",
+        "category": "General"
+    },
+    {
+        "name": "TIFINAGHE ASFRGH",
+        "file": "fonts/TIFINAGHE_ASFRGH.OTF",
+        "category": "General"
+    },
+    {
+        "name": "TIFINAGHE ASFRGH",
+        "file": "fonts/TIFINAGHE_ASFRGH.ttf",
+        "category": "General"
+    },
+    {
+        "name": "TIFINAGHE AZURAR",
+        "file": "fonts/TIFINAGHE_AZURAR.OTF",
+        "category": "General"
+    },
+    {
+        "name": "TIFINAGHE AZURAR",
+        "file": "fonts/TIFINAGHE_AZURAR.ttf",
+        "category": "General"
+    },
+    {
+        "name": "TIFINAGHE AZURAR2",
+        "file": "fonts/TIFINAGHE_AZURAR2.OTF",
+        "category": "General"
+    },
+    {
+        "name": "TIFINAGHE AZURAR2",
+        "file": "fonts/TIFINAGHE_AZURAR2.ttf",
+        "category": "General"
+    },
+    {
+        "name": "TIFINAGHE TAMGHRA",
+        "file": "fonts/TIFINAGHE_TAMGHRA.OTF",
+        "category": "General"
+    },
+    {
+        "name": "TIFINAGHE TAMGHRA",
+        "file": "fonts/TIFINAGHE_TAMGHRA.ttf",
+        "category": "General"
+    },
+    {
+        "name": "Tabarawt Regular",
+        "file": "fonts/Tabarawt-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "Tabarawt Regular",
+        "file": "fonts/Tabarawt-Regular.ttf",
+        "category": "General"
+    },
+    {
+        "name": "Tadlagt1 Regular",
+        "file": "fonts/Tadlagt1-Regular.ttf",
+        "category": "General"
+    },
+    {
+        "name": "Tadlagt1 Regular",
+        "file": "fonts/Tadlagt1-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "Tadlagt2 Regular",
+        "file": "fonts/Tadlagt2-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "Tadlagt2 Regular",
+        "file": "fonts/Tadlagt2-Regular.ttf",
+        "category": "General"
+    },
+    {
+        "name": "Tadlagt3 Regular",
+        "file": "fonts/Tadlagt3-Regular.ttf",
+        "category": "General"
+    },
+    {
+        "name": "Tadlagt3 Regular",
+        "file": "fonts/Tadlagt3-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "Tagmukay B",
+        "file": "fonts/Tagmukay-B.ttf",
+        "category": "General"
+    },
+    {
+        "name": "Tagmukay Bold",
+        "file": "fonts/Tagmukay-Bold.ttf",
+        "category": "General"
+    },
+    {
+        "name": "Tagmukay Regular",
+        "file": "fonts/Tagmukay-Regular.ttf",
+        "category": "General"
+    },
+    {
+        "name": "TamaloutStandardUNICODE",
+        "file": "fonts/TamaloutStandardUNICODE.ttf",
+        "category": "General"
+    },
+    {
+        "name": "TamzwartSTUNICODE",
+        "file": "fonts/TamzwartSTUNICODE.ttf",
+        "category": "General"
+    },
+    {
+        "name": "TassafoutStandardUNICODE",
+        "file": "fonts/TassafoutStandardUNICODE.ttf",
+        "category": "General"
+    },
+    {
+        "name": "TazdaytStandardUNICODE",
+        "file": "fonts/TazdaytStandardUNICODE.ttf",
+        "category": "General"
+    },
+    {
+        "name": "Tazirit UNICODE",
+        "file": "fonts/Tazirit UNICODE.otf",
+        "category": "General"
+    },
+    {
+        "name": "TeddusStandardUNICODE",
+        "file": "fonts/TeddusStandardUNICODE.ttf",
+        "category": "General"
+    },
+    {
+        "name": "TfinaghKabaw Nfusa Regular",
+        "file": "fonts/TfinaghKabaw-Nfusa-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "Tifinagh Abudrar Light",
+        "file": "fonts/Tifinagh Abudrar Light.ttf",
+        "category": "General"
+    },
+    {
+        "name": "Tifinagh Abudrar Light web",
+        "file": "fonts/Tifinagh Abudrar Light web.ttf",
+        "category": "General"
+    },
+    {
+        "name": "Tifinagh Abudrar Normal",
+        "file": "fonts/Tifinagh Abudrar Normal.ttf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghAdlis 1+2 Regular",
+        "file": "fonts/TifinaghAdlis-1+2-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghAdlis Aghilas4 Regular",
+        "file": "fonts/TifinaghAdlis-Aghilas4-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghAdlis Aghilasafra Regular",
+        "file": "fonts/TifinaghAdlis-Aghilasafra-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghAdlis Assan Regular",
+        "file": "fonts/TifinaghAdlis-Assan-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghAdrar Afus Regular",
+        "file": "fonts/TifinaghAdrar-Afus-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghAdrar Afusdfus Regular",
+        "file": "fonts/TifinaghAdrar-Afusdfus-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghAdrar Aghilas Regular",
+        "file": "fonts/TifinaghAdrar-Aghilas-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghAdrar Agraj Regular",
+        "file": "fonts/TifinaghAdrar-Agraj-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghAdrar Agzul Regular",
+        "file": "fonts/TifinaghAdrar-Agzul-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghAdrar Almass Regular",
+        "file": "fonts/TifinaghAdrar-Almass-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghAdrar Ari Regular",
+        "file": "fonts/TifinaghAdrar-Ari-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghAdrar Armass Regular",
+        "file": "fonts/TifinaghAdrar-Armass-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghAdrar Azdad 2 Regular",
+        "file": "fonts/TifinaghAdrar-Azdad-2-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghAdrar Azdad Regular",
+        "file": "fonts/TifinaghAdrar-Azdad-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghAdrar Filem Regular",
+        "file": "fonts/TifinaghAdrar-Filem-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghAdrar FilemN Regular",
+        "file": "fonts/TifinaghAdrar-FilemN-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghAdrar Latinamazigh Regular",
+        "file": "fonts/TifinaghAdrar-Latinamazigh-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghAdrar Masinissa Regular",
+        "file": "fonts/TifinaghAdrar-Masinissa-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghAdrar Muradk3oan Regular",
+        "file": "fonts/TifinaghAdrar-Muradk3oan-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghAdrar Tasunit Regular",
+        "file": "fonts/TifinaghAdrar-Tasunit-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghAdrar Tazdit Regular",
+        "file": "fonts/TifinaghAdrar-Tazdit-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghAdrar Tifayur Regular",
+        "file": "fonts/TifinaghAdrar-Tifayur-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghAdrar Tinmal Regular",
+        "file": "fonts/TifinaghAdrar-Tinmal-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghAdrar Tira Regular",
+        "file": "fonts/TifinaghAdrar-Tira-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghAwal Tira Regular",
+        "file": "fonts/TifinaghAwal-Tira-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghAwal Tiraix Regular",
+        "file": "fonts/TifinaghAwal-Tiraix-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghAwal Tiranagh Regular",
+        "file": "fonts/TifinaghAwal-Tiranagh-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghAwal Tirax Regular",
+        "file": "fonts/TifinaghAwal-Tirax-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghAwal Tiraxx Regular",
+        "file": "fonts/TifinaghAwal-Tiraxx-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghBDDeux",
+        "file": "fonts/TifinaghBDDeux.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghBDUn",
+        "file": "fonts/TifinaghBDUn.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghEcranDeux",
+        "file": "fonts/TifinaghEcranDeux.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghEcranDeux Bold",
+        "file": "fonts/TifinaghEcranDeux-Bold.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghEcranUn",
+        "file": "fonts/TifinaghEcranUn.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghEcranUn Bold",
+        "file": "fonts/TifinaghEcranUn-Bold.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghIRCAM Teddus Regular",
+        "file": "fonts/TifinaghIRCAM-Teddus-Regular.otf",
+        "category": "IRCAM"
+    },
+    {
+        "name": "TifinaghKabaw AdelAlhjaj Regular",
+        "file": "fonts/TifinaghKabaw-AdelAlhjaj-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw AfkanAmzwar Regular",
+        "file": "fonts/TifinaghKabaw-AfkanAmzwar-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw Afus Regular",
+        "file": "fonts/TifinaghKabaw-Afus-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw Aghaniem Regular",
+        "file": "fonts/TifinaghKabaw-Aghaniem-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw Agraj Regular",
+        "file": "fonts/TifinaghKabaw-Agraj-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw Agrajafra Italic",
+        "file": "fonts/TifinaghKabaw-Agrajafra-Italic.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw Agraw Regular",
+        "file": "fonts/TifinaghKabaw-Agraw-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw Aimnalbaruni Regular",
+        "file": "fonts/TifinaghKabaw-Aimnalbaruni-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw Aksel Regular",
+        "file": "fonts/TifinaghKabaw-Aksel-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw Aksell Regular",
+        "file": "fonts/TifinaghKabaw-Aksell-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw Amghnas Regular",
+        "file": "fonts/TifinaghKabaw-Amghnas-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw Amna Regular",
+        "file": "fonts/TifinaghKabaw-Amna-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw AmnaFont 2 Regular",
+        "file": "fonts/TifinaghKabaw-AmnaFont-2-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw Amrwas Regular",
+        "file": "fonts/TifinaghKabaw-Amrwas-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw Amrwass Regular",
+        "file": "fonts/TifinaghKabaw-Amrwass-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw Azwad Regular",
+        "file": "fonts/TifinaghKabaw-Azwad-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw Azzgrar Regular",
+        "file": "fonts/TifinaghKabaw-Azzgrar-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw AzzgrarMshek Regular",
+        "file": "fonts/TifinaghKabaw-AzzgrarMshek-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw BorabyaaShriha Regular",
+        "file": "fonts/TifinaghKabaw-BorabyaaShriha-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw Borawyshriha Regular",
+        "file": "fonts/TifinaghKabaw-Borawyshriha-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw Brga Regular",
+        "file": "fonts/TifinaghKabaw-Brga-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw CawBoy Regular",
+        "file": "fonts/TifinaghKabaw-CawBoy-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw Dijtel Regular",
+        "file": "fonts/TifinaghKabaw-Dijtel-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw Ebrahimalhjaj Regular",
+        "file": "fonts/TifinaghKabaw-Ebrahimalhjaj-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw Ebrahimalhjaj Regular Asdad",
+        "file": "fonts/TifinaghKabaw-Ebrahimalhjaj-Regular-Asdad.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw Elias Regular",
+        "file": "fonts/TifinaghKabaw-Elias-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw Hatamalbroni Regular",
+        "file": "fonts/TifinaghKabaw-Hatamalbroni-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw Hip Regular",
+        "file": "fonts/TifinaghKabaw-Hip-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw Hipssan Regular",
+        "file": "fonts/TifinaghKabaw-Hipssan-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw Hipujan Regular",
+        "file": "fonts/TifinaghKabaw-Hipujan-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw Hitmalbaruni Regular",
+        "file": "fonts/TifinaghKabaw-Hitmalbaruni-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw Hnibal Regular",
+        "file": "fonts/TifinaghKabaw-Hnibal-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw Hosamalhjaj Regular",
+        "file": "fonts/TifinaghKabaw-Hosamalhjaj-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw Hosamalhjajj Regular",
+        "file": "fonts/TifinaghKabaw-Hosamalhjajj-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw Idmenazwad Regular",
+        "file": "fonts/TifinaghKabaw-Idmenazwad-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw Ilesntmura Regular",
+        "file": "fonts/TifinaghKabaw-Ilesntmura-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw Imir Regular",
+        "file": "fonts/TifinaghKabaw-Imir-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw ImirAfra Regular",
+        "file": "fonts/TifinaghKabaw-ImirAfra-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw Infusan Regular",
+        "file": "fonts/TifinaghKabaw-Infusan-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw Ithri Regular",
+        "file": "fonts/TifinaghKabaw-Ithri-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw Izri Regular",
+        "file": "fonts/TifinaghKabaw-Izri-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw Jomasda Regular",
+        "file": "fonts/TifinaghKabaw-Jomasda-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw Jumaakrkara Regular",
+        "file": "fonts/TifinaghKabaw-Jumaakrkara-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw Kabawn Regular",
+        "file": "fonts/TifinaghKabaw-Kabawn-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw Kabawnafra Regular",
+        "file": "fonts/TifinaghKabaw-Kabawnafra-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw Kabawnnagh Regular",
+        "file": "fonts/TifinaghKabaw-Kabawnnagh-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw Kasmnajaa Regular",
+        "file": "fonts/TifinaghKabaw-Kasmnajaa-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw Kholaalbruni Regular",
+        "file": "fonts/TifinaghKabaw-Kholaalbruni-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw KmalThraf Regular",
+        "file": "fonts/TifinaghKabaw-KmalThraf-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw Knarai Regular",
+        "file": "fonts/TifinaghKabaw-Knarai-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw Knari Regular",
+        "file": "fonts/TifinaghKabaw-Knari-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw Madghismadi Regular",
+        "file": "fonts/TifinaghKabaw-Madghismadi-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw Masinissa Regular",
+        "file": "fonts/TifinaghKabaw-Masinissa-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw Masudrubx Regular",
+        "file": "fonts/TifinaghKabaw-Masudrubx-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw MatoubLounas Regular",
+        "file": "fonts/TifinaghKabaw-MatoubLounas-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw Mazigh Bold",
+        "file": "fonts/TifinaghKabaw-Mazigh-Bold.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw Mckaken Regular",
+        "file": "fonts/TifinaghKabaw-Mckaken-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw Mckakennagh Regular",
+        "file": "fonts/TifinaghKabaw-Mckakennagh-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw Mnad Regular",
+        "file": "fonts/TifinaghKabaw-Mnad-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw MohmedAlhjaj Regular",
+        "file": "fonts/TifinaghKabaw-MohmedAlhjaj-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw Mohmedkrakozz2 Regular",
+        "file": "fonts/TifinaghKabaw-Mohmedkrakozz2-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw MsaudRubx Regular",
+        "file": "fonts/TifinaghKabaw-MsaudRubx-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw NadarDawad Regular",
+        "file": "fonts/TifinaghKabaw-NadarDawad-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw NanaMaran Regular",
+        "file": "fonts/TifinaghKabaw-NanaMaran-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw Raufalbaruny Regular",
+        "file": "fonts/TifinaghKabaw-Raufalbaruny-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw RmdanDamja Regular",
+        "file": "fonts/TifinaghKabaw-RmdanDamja-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw Russia2018 Regular",
+        "file": "fonts/TifinaghKabaw-Russia2018-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw SaidSifaw Regular",
+        "file": "fonts/TifinaghKabaw-SaidSifaw-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw ShiShnq Regular",
+        "file": "fonts/TifinaghKabaw-ShiShnq-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw Sifax Regular",
+        "file": "fonts/TifinaghKabaw-Sifax-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw SirajEbrahim Regular",
+        "file": "fonts/TifinaghKabaw-SirajEbrahim-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw Tabrat Regular",
+        "file": "fonts/TifinaghKabaw-Tabrat-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw Tadra Regular",
+        "file": "fonts/TifinaghKabaw-Tadra-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw Taghrma Regular",
+        "file": "fonts/TifinaghKabaw-Taghrma-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw Tagrawla Regular",
+        "file": "fonts/TifinaghKabaw-Tagrawla-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw Tairinngh Regular",
+        "file": "fonts/TifinaghKabaw-Tairinngh-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw Tajdiggat Regular",
+        "file": "fonts/TifinaghKabaw-Tajdiggat-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw Talji Regular",
+        "file": "fonts/TifinaghKabaw-Talji-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw Tallunt Regular",
+        "file": "fonts/TifinaghKabaw-Tallunt-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw Talluntx Regular",
+        "file": "fonts/TifinaghKabaw-Talluntx-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw Tambult Regular",
+        "file": "fonts/TifinaghKabaw-Tambult-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw Tambult0 Regular",
+        "file": "fonts/TifinaghKabaw-Tambult0-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw Tambult1 Regular",
+        "file": "fonts/TifinaghKabaw-Tambult1-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw Tambultx Regular",
+        "file": "fonts/TifinaghKabaw-Tambultx-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw Tamikrest Regular",
+        "file": "fonts/TifinaghKabaw-Tamikrest-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw Tamuort Regular",
+        "file": "fonts/TifinaghKabaw-Tamuort-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw Tanes Regular",
+        "file": "fonts/TifinaghKabaw-Tanes-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw Tans Regular",
+        "file": "fonts/TifinaghKabaw-Tans-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw Tans v Italic",
+        "file": "fonts/TifinaghKabaw-Tans v-Italic.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw Tayfa Regular",
+        "file": "fonts/TifinaghKabaw-Tayfa-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw Tayri Regular",
+        "file": "fonts/TifinaghKabaw-Tayri-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw Tayri Regular(1)",
+        "file": "fonts/TifinaghKabaw-Tayri-Regular(1).otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw Tbarun Regular",
+        "file": "fonts/TifinaghKabaw-Tbarun-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw Tbarun+1 Regular",
+        "file": "fonts/TifinaghKabaw-Tbarun+1-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw Tebress Regular",
+        "file": "fonts/TifinaghKabaw-Tebress-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw TebressMcek Regular",
+        "file": "fonts/TifinaghKabaw-TebressMcek-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw Thaghat Regular",
+        "file": "fonts/TifinaghKabaw-Thaghat-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw Thghath Regular",
+        "file": "fonts/TifinaghKabaw-Thghath-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw Thila Regular",
+        "file": "fonts/TifinaghKabaw-Thila-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw Tihya Regular",
+        "file": "fonts/TifinaghKabaw-Tihya-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw Tikkrt Regular",
+        "file": "fonts/TifinaghKabaw-Tikkrt-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw Tilelli Regular",
+        "file": "fonts/TifinaghKabaw-Tilelli-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw TilelliRaz Regular",
+        "file": "fonts/TifinaghKabaw-TilelliRaz-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw TimCmet Regular",
+        "file": "fonts/TifinaghKabaw-TimCmet-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw TimCmetafra Regular",
+        "file": "fonts/TifinaghKabaw-TimCmetafra-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw Timcmett Regular Z",
+        "file": "fonts/TifinaghKabaw-Timcmett-Regular Z.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw Tiniri Regular",
+        "file": "fonts/TifinaghKabaw-Tiniri-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw Tiranafus Regular",
+        "file": "fonts/TifinaghKabaw-Tiranafus-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw Tojan Regular",
+        "file": "fonts/TifinaghKabaw-Tojan-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw Turarat Regular",
+        "file": "fonts/TifinaghKabaw-Turarat-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw Turart Regular",
+        "file": "fonts/TifinaghKabaw-Turart-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw UL Regular",
+        "file": "fonts/TifinaghKabaw-UL-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw Ufas Regular",
+        "file": "fonts/TifinaghKabaw-Ufas-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw Wrwri Regular",
+        "file": "fonts/TifinaghKabaw-Wrwri-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw YliTifayuor Regular",
+        "file": "fonts/TifinaghKabaw-YliTifayuor-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw Yosafkasm Regular",
+        "file": "fonts/TifinaghKabaw-Yosafkasm-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabaw Yugrta Regular",
+        "file": "fonts/TifinaghKabaw-Yugrta-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabawn Mckaken Regular",
+        "file": "fonts/TifinaghKabawn-Mckaken-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKabawn MckakenNagh Regular",
+        "file": "fonts/TifinaghKabawn-MckakenNagh-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghKbaw Taness Regular",
+        "file": "fonts/TifinaghKbaw-Taness-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghRevueDeux",
+        "file": "fonts/TifinaghRevueDeux.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinaghRevueDeux Bold",
+        "file": "fonts/TifinaghRevueDeux-Bold.otf",
         "category": "General"
     },
     {
         "name": "TifinaghRevueUn",
-        "file": "IRCAM/TifinaghRevueUn.otf",
-        "category": "IRCAM"
-    },
-    {
-        "name": "TFNGH UNICODE 2 TAGURI",
-        "file": "IRCAM/TFNGH-UNICODE-2-TAGURI.ttf",
-        "category": "IRCAM"
-    },
-    {
-        "name": "TIFINAGHE ABAQTICH",
-        "file": "IRCAM/TIFINAGHE_ABAQTICH.ttf",
-        "category": "IRCAM"
-    },
-    {
-        "name": "TifinagheAfrdis Regular",
-        "file": "IRCAM/TifinagheAfrdis-Regular.OTF",
-        "category": "IRCAM"
-    },
-    {
-        "name": "Adlis",
-        "file": "IRCAM/Adlis.otf",
-        "category": "IRCAM"
-    },
-    {
-        "name": "TIFINAGHE AMTROY",
-        "file": "IRCAM/TIFINAGHE_AMTROY.ttf",
-        "category": "IRCAM"
-    },
-    {
-        "name": "TIFINAGHE AZURAR",
-        "file": "IRCAM/TIFINAGHE_AZURAR.OTF",
-        "category": "IRCAM"
-    },
-    {
-        "name": "Asdar semibold",
-        "file": "IRCAM/Asdar_semibold.otf",
-        "category": "IRCAM"
-    },
-    {
-        "name": "Agoug unicode",
-        "file": "IRCAM/Agoug_unicode.ttf",
-        "category": "IRCAM"
-    },
-    {
-        "name": "TamzwartSTUNICODE",
-        "file": "IRCAM/TamzwartSTUNICODE.ttf",
-        "category": "IRCAM"
-    },
-    {
-        "name": "amanar",
-        "file": "IRCAM/amanar.ttf",
-        "category": "IRCAM"
-    },
-    {
-        "name": "TIFINAGHE ASFRGH",
-        "file": "IRCAM/TIFINAGHE_ASFRGH.OTF",
-        "category": "IRCAM"
-    },
-    {
-        "name": "coupure",
-        "file": "IRCAM/coupure.ttf",
-        "category": "IRCAM"
-    },
-    {
-        "name": "TIFINAGHE AZURAR2",
-        "file": "IRCAM/TIFINAGHE_AZURAR2.OTF",
-        "category": "IRCAM"
-    },
-    {
-        "name": "TIFINAGHE AFRAG",
-        "file": "IRCAM/TIFINAGHE_AFRAG.ttf",
-        "category": "IRCAM"
-    },
-    {
-        "name": "TifinagheAnagray Regular 0",
-        "file": "IRCAM/TifinagheAnagray-Regular_0.ttf",
-        "category": "IRCAM"
+        "file": "fonts/TifinaghRevueUn.otf",
+        "category": "General"
     },
     {
         "name": "TifinaghRevueUn Bold",
-        "file": "IRCAM/TifinaghRevueUn-Bold.otf",
-        "category": "IRCAM"
-    },
-    {
-        "name": "azmznozro",
-        "file": "IRCAM/azmznozro.ttf",
-        "category": "IRCAM"
-    },
-    {
-        "name": "Tadlagt3 Regular",
-        "file": "IRCAM/Tadlagt3-Regular.ttf",
-        "category": "IRCAM"
-    },
-    {
-        "name": "Callircam Blk",
-        "file": "IRCAM/Callircam-Blk.otf",
-        "category": "IRCAM"
-    },
-    {
-        "name": "anaruz sin",
-        "file": "IRCAM/anaruz_sin.ttf",
-        "category": "IRCAM"
-    },
-    {
-        "name": "TifinagheAnamyar Regular",
-        "file": "IRCAM/TifinagheAnamyar-Regular.OTF",
-        "category": "IRCAM"
-    },
-    {
-        "name": "Tadlagt1 Regular",
-        "file": "IRCAM/Tadlagt1-Regular.ttf",
-        "category": "IRCAM"
-    },
-    {
-        "name": "ebrima",
-        "file": "IRCAM/ebrima.ttf",
-        "category": "IRCAM"
-    },
-    {
-        "name": "Multiple cursive scripts",
-        "file": "IRCAM/Multiple_cursive_scripts.ttf",
-        "category": "IRCAM"
-    },
-    {
-        "name": "caligraphie",
-        "file": "IRCAM/caligraphie.ttf",
-        "category": "IRCAM"
-    },
-    {
-        "name": "TIFINAGHE AMAWAS",
-        "file": "IRCAM/TIFINAGHE_AMAWAS.OTF",
-        "category": "IRCAM"
-    },
-    {
-        "name": "TifinagheAmsdag Regular",
-        "file": "IRCAM/TifinagheAmsdag-Regular.ttf",
-        "category": "IRCAM"
-    },
-    {
-        "name": "TIFINAGHE ANAFAW",
-        "file": "IRCAM/TIFINAGHE_ANAFAW.ttf",
-        "category": "IRCAM"
-    },
-    {
-        "name": "ebrimabd",
-        "file": "IRCAM/ebrimabd.ttf",
-        "category": "IRCAM"
-    },
-    {
-        "name": "TIFINAGHE ABAQTICH",
-        "file": "IRCAM/TIFINAGHE_ABAQTICH.OTF",
-        "category": "IRCAM"
-    },
-    {
-        "name": "maghribi",
-        "file": "IRCAM/maghribi.ttf",
-        "category": "IRCAM"
-    },
-    {
-        "name": "TifinagheAfrdis Regular",
-        "file": "IRCAM/TifinagheAfrdis-Regular.ttf",
-        "category": "IRCAM"
-    },
-    {
-        "name": "TFNGH UNICODE 2 TAGURI bd",
-        "file": "IRCAM/TFNGH-UNICODE-2-TAGURI_bd.ttf",
-        "category": "IRCAM"
-    },
-    {
-        "name": "agrawlan",
-        "file": "IRCAM/agrawlan.ttf",
-        "category": "IRCAM"
-    },
-    {
-        "name": "TFNGH UNICODE 1 TIDRFI bd",
-        "file": "IRCAM/TFNGH-UNICODE-1-TIDRFI_bd.ttf",
-        "category": "IRCAM"
-    },
-    {
-        "name": "TassafoutStandardUNICODE",
-        "file": "IRCAM/TassafoutStandardUNICODE.ttf",
-        "category": "IRCAM"
-    },
-    {
-        "name": "Tintfalatin Regular",
-        "file": "IRCAM/Tintfalatin-Regular.otf",
-        "category": "IRCAM"
-    },
-    {
-        "name": "TifinaghBDUn",
-        "file": "IRCAM/TifinaghBDUn.otf",
-        "category": "IRCAM"
-    },
-    {
-        "name": "cactus",
-        "file": "IRCAM/cactus.ttf",
-        "category": "IRCAM"
-    },
-    {
-        "name": "goute",
-        "file": "IRCAM/goute.ttf",
-        "category": "IRCAM"
-    },
-    {
-        "name": "TifinagheAmkkuz Regular",
-        "file": "IRCAM/TifinagheAmkkuz-Regular.OTF",
-        "category": "IRCAM"
-    },
-    {
-        "name": "izriri",
-        "file": "IRCAM/izriri.ttf",
-        "category": "IRCAM"
-    },
-    {
-        "name": "TFNGH UNICODE 2 TAGURI SIN bdit",
-        "file": "IRCAM/TFNGH-UNICODE-2-TAGURI_SIN_bdit.ttf",
-        "category": "IRCAM"
-    },
-    {
-        "name": "Gutik Regular",
-        "file": "IRCAM/Gutik-Regular.otf",
-        "category": "IRCAM"
-    },
-    {
-        "name": "TifinaghEcranUn",
-        "file": "IRCAM/TifinaghEcranUn.otf",
-        "category": "IRCAM"
-    },
-    {
-        "name": "Tinparis Regular",
-        "file": "IRCAM/Tinparis-Regular.ttf",
-        "category": "IRCAM"
-    },
-    {
-        "name": "Afulki",
-        "file": "IRCAM/Afulki.ttf",
-        "category": "IRCAM"
-    },
-    {
-        "name": "TIFINAGHE AMNNAGH",
-        "file": "IRCAM/TIFINAGHE_AMNNAGH.ttf",
-        "category": "IRCAM"
-    },
-    {
-        "name": "TifinagheAfraw Regular",
-        "file": "IRCAM/TifinagheAfraw-Regular.OTF",
-        "category": "IRCAM"
-    },
-    {
-        "name": "TifinagheAdar Regular",
-        "file": "IRCAM/TifinagheAdar-Regular.OTF",
-        "category": "IRCAM"
-    },
-    {
-        "name": "TFNGH UNICODE 1 TIDRFI",
-        "file": "IRCAM/TFNGH-UNICODE-1-TIDRFI.ttf",
-        "category": "IRCAM"
-    },
-    {
-        "name": "ebrima bold",
-        "file": "IRCAM/ebrima_bold.ttf",
-        "category": "IRCAM"
-    },
-    {
-        "name": "TifinagheTanumi Regular",
-        "file": "IRCAM/TifinagheTanumi-Regular.OTF",
-        "category": "IRCAM"
-    },
-    {
-        "name": "T I UNICODE",
-        "file": "IRCAM/T_I_UNICODE.ttf",
-        "category": "IRCAM"
-    },
-    {
-        "name": "tinmlt sin",
-        "file": "IRCAM/tinmlt_sin.ttf",
-        "category": "IRCAM"
-    },
-    {
-        "name": "TazdaytStandardUNICODE",
-        "file": "IRCAM/TazdaytStandardUNICODE.ttf",
-        "category": "IRCAM"
-    },
-    {
-        "name": "tifilit Regular",
-        "file": "IRCAM/tifilit-Regular.ttf",
-        "category": "IRCAM"
-    },
-    {
-        "name": "TIFINAGHE AMURAR",
-        "file": "IRCAM/TIFINAGHE_AMURAR.ttf",
-        "category": "IRCAM"
-    },
-    {
-        "name": "Tadlagt1 Regular",
-        "file": "IRCAM/Tadlagt1-Regular.otf",
-        "category": "IRCAM"
-    },
-    {
-        "name": "ferforge",
-        "file": "IRCAM/ferforge.ttf",
-        "category": "IRCAM"
-    },
-    {
-        "name": "TifinaghRevueDeux Bold",
-        "file": "IRCAM/TifinaghRevueDeux-Bold.otf",
-        "category": "IRCAM"
-    },
-    {
-        "name": "TifinagheAmnzu Regular",
-        "file": "IRCAM/TifinagheAmnzu-Regular.ttf",
-        "category": "IRCAM"
-    },
-    {
-        "name": "Tadlagt2 Regular",
-        "file": "IRCAM/Tadlagt2-Regular.otf",
-        "category": "IRCAM"
-    },
-    {
-        "name": "TIFINAGHE AZURAR2",
-        "file": "IRCAM/TIFINAGHE_AZURAR2.ttf",
-        "category": "IRCAM"
-    },
-    {
-        "name": "TifinagheAqurar Regular",
-        "file": "IRCAM/TifinagheAqurar-Regular.OTF",
-        "category": "IRCAM"
-    },
-    {
-        "name": "TeddusStandardUNICODE",
-        "file": "IRCAM/TeddusStandardUNICODE.ttf",
-        "category": "IRCAM"
-    },
-    {
-        "name": "TIFINAGHE AMTROY",
-        "file": "IRCAM/TIFINAGHE_AMTROY.OTF",
-        "category": "IRCAM"
-    },
-    {
-        "name": "Tintfalatin Regular",
-        "file": "IRCAM/Tintfalatin-Regular.ttf",
-        "category": "IRCAM"
-    },
-    {
-        "name": "TifinagheAdar Regular",
-        "file": "IRCAM/TifinagheAdar-Regular.ttf",
-        "category": "IRCAM"
-    },
-    {
-        "name": "TifinagheAnamyar Regular",
-        "file": "IRCAM/TifinagheAnamyar-Regular.ttf",
-        "category": "IRCAM"
-    },
-    {
-        "name": "tifilit Regular",
-        "file": "IRCAM/tifilit-Regular.otf",
-        "category": "IRCAM"
-    },
-    {
-        "name": "Tazirit UNICODE",
-        "file": "IRCAM/Tazirit UNICODE.otf",
-        "category": "IRCAM"
-    },
-    {
-        "name": "TifinaghEcranDeux Bold",
-        "file": "IRCAM/TifinaghEcranDeux-Bold.otf",
-        "category": "IRCAM"
-    },
-    {
-        "name": "anaviz",
-        "file": "IRCAM/anaviz.ttf",
-        "category": "IRCAM"
-    },
-    {
-        "name": "Tadlagt3 Regular",
-        "file": "IRCAM/Tadlagt3-Regular.otf",
-        "category": "IRCAM"
-    },
-    {
-        "name": "font A",
-        "file": "IRCAM/font_A.ttf",
-        "category": "IRCAM"
-    },
-    {
-        "name": "TIFINAGHE AMNNAGH",
-        "file": "IRCAM/TIFINAGHE_AMNNAGH.OTF",
-        "category": "IRCAM"
-    },
-    {
-        "name": "TifinagheAmsdag Regular",
-        "file": "IRCAM/TifinagheAmsdag-Regular.OTF",
-        "category": "IRCAM"
-    },
-    {
-        "name": "font B",
-        "file": "IRCAM/font_B.ttf",
-        "category": "IRCAM"
-    },
-    {
-        "name": "Tabarawt Regular",
-        "file": "IRCAM/Tabarawt-Regular.otf",
-        "category": "IRCAM"
-    },
-    {
-        "name": "Tabarawt Regular",
-        "file": "IRCAM/Tabarawt-Regular.ttf",
-        "category": "IRCAM"
-    },
-    {
-        "name": "TamaloutStandardUNICODE",
-        "file": "IRCAM/TamaloutStandardUNICODE.ttf",
-        "category": "IRCAM"
-    },
-    {
-        "name": "Gutik Regular",
-        "file": "IRCAM/Gutik-Regular.ttf",
-        "category": "IRCAM"
-    },
-    {
-        "name": "TifinaghRevueDeux",
-        "file": "IRCAM/TifinaghRevueDeux.otf",
-        "category": "IRCAM"
-    },
-    {
-        "name": "TIFINAGHE TAMGHRA",
-        "file": "IRCAM/TIFINAGHE_TAMGHRA.OTF",
-        "category": "IRCAM"
-    },
-    {
-        "name": "TifinaghEcranUn Bold",
-        "file": "IRCAM/TifinaghEcranUn-Bold.otf",
-        "category": "IRCAM"
-    },
-    {
-        "name": "TFNGH UNICODE 1 AGRAGHLAN",
-        "file": "IRCAM/TFNGH-UNICODE-1-AGRAGHLAN.ttf",
-        "category": "IRCAM"
-    },
-    {
-        "name": "pointu",
-        "file": "IRCAM/pointu.ttf",
-        "category": "IRCAM"
-    },
-    {
-        "name": "anbraz",
-        "file": "IRCAM/anbraz.ttf",
-        "category": "IRCAM"
-    },
-    {
-        "name": "TifinaghBDDeux",
-        "file": "IRCAM/TifinaghBDDeux.otf",
-        "category": "IRCAM"
-    },
-    {
-        "name": "totem",
-        "file": "IRCAM/totem.ttf",
-        "category": "IRCAM"
-    },
-    {
-        "name": "TFNGH UNICODE 2 ADLIS",
-        "file": "IRCAM/TFNGH-UNICODE-2-ADLIS.ttf",
-        "category": "IRCAM"
-    },
-    {
-        "name": "Tadlagt2 Regular",
-        "file": "IRCAM/Tadlagt2-Regular.ttf",
-        "category": "IRCAM"
-    },
-    {
-        "name": "TIFINAGHE TAMGHRA",
-        "file": "IRCAM/TIFINAGHE_TAMGHRA.ttf",
-        "category": "IRCAM"
-    },
-    {
-        "name": "TifinagheAqurar Regular",
-        "file": "IRCAM/TifinagheAqurar-Regular.ttf",
-        "category": "IRCAM"
-    },
-    {
-        "name": "tidfi",
-        "file": "IRCAM/tidfi.ttf",
-        "category": "IRCAM"
-    },
-    {
-        "name": "TifinagheTanumi Regular",
-        "file": "IRCAM/TifinagheTanumi-Regular.ttf",
-        "category": "IRCAM"
-    },
-    {
-        "name": "TifinagheAnagray Regular 0",
-        "file": "IRCAM/TifinagheAnagray-Regular_0.OTF",
-        "category": "IRCAM"
-    },
-    {
-        "name": "TIFINAGHE AMAWAS",
-        "file": "IRCAM/TIFINAGHE_AMAWAS.ttf",
-        "category": "IRCAM"
-    },
-    {
-        "name": "tinmlt",
-        "file": "IRCAM/tinmlt.ttf",
-        "category": "IRCAM"
-    },
-    {
-        "name": "TIFINAGHE AFRAG",
-        "file": "IRCAM/TIFINAGHE_AFRAG.OTF",
-        "category": "IRCAM"
-    },
-    {
-        "name": "TifinagheAfraw Regular",
-        "file": "IRCAM/TifinagheAfraw-Regular.ttf",
-        "category": "IRCAM"
-    },
-    {
-        "name": "inknign",
-        "file": "IRCAM/inknign.ttf",
-        "category": "IRCAM"
-    },
-    {
-        "name": "Tinparis Regular",
-        "file": "IRCAM/Tinparis-Regular.otf",
-        "category": "IRCAM"
-    },
-    {
-        "name": "TIFINAGHE AZURAR",
-        "file": "IRCAM/TIFINAGHE_AZURAR.ttf",
-        "category": "IRCAM"
-    },
-    {
-        "name": "TFNGH UNICODE 2 ADLIS bd",
-        "file": "IRCAM/TFNGH-UNICODE-2-ADLIS_bd.ttf",
-        "category": "IRCAM"
-    },
-    {
-        "name": "anaruz",
-        "file": "IRCAM/anaruz.ttf",
-        "category": "IRCAM"
-    },
-    {
-        "name": "TifinagheAmnzu Regular",
-        "file": "IRCAM/TifinagheAmnzu-Regular.OTF",
-        "category": "IRCAM"
-    },
-    {
-        "name": "TIFINAGHE ASFRGH",
-        "file": "IRCAM/TIFINAGHE_ASFRGH.ttf",
-        "category": "IRCAM"
-    },
-    {
-        "name": "TFNGH UNICODE 2 TAGURI SIN",
-        "file": "IRCAM/TFNGH-UNICODE-2-TAGURI_SIN.ttf",
-        "category": "IRCAM"
-    },
-    {
-        "name": "TIFINAGHE ANAFAW",
-        "file": "IRCAM/TIFINAGHE_ANAFAW.OTF",
-        "category": "IRCAM"
-    },
-    {
-        "name": "TIFINAGHE AMURAR",
-        "file": "IRCAM/TIFINAGHE_AMURAR.OTF",
-        "category": "IRCAM"
-    },
-    {
-        "name": "TifinagheAmkkuz Regular",
-        "file": "IRCAM/TifinagheAmkkuz-Regular.ttf",
-        "category": "IRCAM"
-    },
-    {
-        "name": "Tifinaghe Ircam Unicode",
-        "file": "IRCAM/Tifinaghe-Ircam_Unicode.ttf",
-        "category": "IRCAM"
-    },
-    {
-        "name": "TifinaghEcranDeux",
-        "file": "IRCAM/TifinaghEcranDeux.otf",
-        "category": "IRCAM"
-    },
-    {
-        "name": "Tagmukay Bold",
-        "file": "Other Tifinagh Variants/Tagmukay-Bold.ttf",
-        "category": "Other Tifinagh Variants"
-    },
-    {
-        "name": "Akatab Bold",
-        "file": "Other Tifinagh Variants/Akatab-Bold.ttf",
-        "category": "Other Tifinagh Variants"
-    },
-    {
-        "name": "Akatab Black",
-        "file": "Other Tifinagh Variants/Akatab-Black.ttf",
-        "category": "Other Tifinagh Variants"
-    },
-    {
-        "name": "damase v.2",
-        "file": "Other Tifinagh Variants/damase_v.2.ttf",
-        "category": "Other Tifinagh Variants"
-    },
-    {
-        "name": "FaulmannFont JRMgj",
-        "file": "Other Tifinagh Variants/FaulmannFont-JRMgj.ttf",
-        "category": "Other Tifinagh Variants"
-    },
-    {
-        "name": "Akatab Regular(1)",
-        "file": "Other Tifinagh Variants/Akatab-Regular(1).ttf",
-        "category": "Other Tifinagh Variants"
-    },
-    {
-        "name": "Akatab SemiBold(1)",
-        "file": "Other Tifinagh Variants/Akatab-SemiBold(1).ttf",
-        "category": "Other Tifinagh Variants"
-    },
-    {
-        "name": "Akatab SemiBold",
-        "file": "Other Tifinagh Variants/Akatab-SemiBold.ttf",
-        "category": "Other Tifinagh Variants"
-    },
-    {
-        "name": "Akatab Medium(1)",
-        "file": "Other Tifinagh Variants/Akatab-Medium(1).ttf",
-        "category": "Other Tifinagh Variants"
-    },
-    {
-        "name": "YugurtenACEBHapax",
-        "file": "Other Tifinagh Variants/YugurtenACEBHapax.ttf",
-        "category": "Other Tifinagh Variants"
-    },
-    {
-        "name": "HapaxDzNCl shipped",
-        "file": "Other Tifinagh Variants/HapaxDzNCl_shipped.ttf",
-        "category": "Other Tifinagh Variants"
-    },
-    {
-        "name": "Akatab Black(1)",
-        "file": "Other Tifinagh Variants/Akatab-Black(1).ttf",
-        "category": "Other Tifinagh Variants"
-    },
-    {
-        "name": "hapaxber 6.1",
-        "file": "Other Tifinagh Variants/hapaxber-6.1.ttf",
-        "category": "Other Tifinagh Variants"
-    },
-    {
-        "name": "HapaxTifinarRond",
-        "file": "Other Tifinagh Variants/HapaxTifinarRond.ttf",
-        "category": "Other Tifinagh Variants"
-    },
-    {
-        "name": "Akatab Bold(1)",
-        "file": "Other Tifinagh Variants/Akatab-Bold(1).ttf",
-        "category": "Other Tifinagh Variants"
-    },
-    {
-        "name": "HapaxDzNAn shipped",
-        "file": "Other Tifinagh Variants/HapaxDzNAn_shipped.ttf",
-        "category": "Other Tifinagh Variants"
-    },
-    {
-        "name": "HapaxBAPT",
-        "file": "Other Tifinagh Variants/HapaxBAPT.ttf",
-        "category": "Other Tifinagh Variants"
-    },
-    {
-        "name": "Akatab Medium",
-        "file": "Other Tifinagh Variants/Akatab-Medium.ttf",
-        "category": "Other Tifinagh Variants"
-    },
-    {
-        "name": "Akatab Regular",
-        "file": "Other Tifinagh Variants/Akatab-Regular.ttf",
-        "category": "Other Tifinagh Variants"
-    },
-    {
-        "name": "HapaxDzN shipped",
-        "file": "Other Tifinagh Variants/HapaxDzN_shipped.ttf",
-        "category": "Other Tifinagh Variants"
-    },
-    {
-        "name": "Akatab ExtraBold(1)",
-        "file": "Other Tifinagh Variants/Akatab-ExtraBold(1).ttf",
-        "category": "Other Tifinagh Variants"
-    },
-    {
-        "name": "Hapax shipped",
-        "file": "Other Tifinagh Variants/Hapax_shipped.ttf",
-        "category": "Other Tifinagh Variants"
-    },
-    {
-        "name": "HapaxTifinarCarre",
-        "file": "Other Tifinagh Variants/HapaxTifinarCarre.ttf",
-        "category": "Other Tifinagh Variants"
-    },
-    {
-        "name": "hapaxber.ttf",
-        "file": "Other Tifinagh Variants/hapaxber.ttf.otf",
-        "category": "Other Tifinagh Variants"
-    },
-    {
-        "name": "Hapax Berbère, Regular",
-        "file": "Other Tifinagh Variants/Hapax Berbère, Regular.ttf",
-        "category": "Other Tifinagh Variants"
-    },
-    {
-        "name": "Akatab ExtraBold",
-        "file": "Other Tifinagh Variants/Akatab-ExtraBold.ttf",
-        "category": "Other Tifinagh Variants"
-    },
-    {
-        "name": "HapaxBAPT(1)",
-        "file": "Other Tifinagh Variants/HapaxBAPT(1).ttf",
-        "category": "Other Tifinagh Variants"
-    },
-    {
-        "name": "Tagmukay Regular",
-        "file": "Other Tifinagh Variants/Tagmukay-Regular.ttf",
-        "category": "Other Tifinagh Variants"
-    },
-    {
-        "name": "Tagmukay B",
-        "file": "Other Tifinagh Variants/Tagmukay-B.ttf",
-        "category": "Other Tifinagh Variants"
-    },
-    {
-        "name": "TifinaghKabaw Tanes Regular",
-        "file": "Tawalt/TifinaghKabaw-Tanes-Regular.otf",
-        "category": "Tawalt"
-    },
-    {
-        "name": "Tifinaghe TawaltAmawalBold",
-        "file": "Tawalt/Tifinaghe-TawaltAmawalBold.otf",
-        "category": "Tawalt"
-    },
-    {
-        "name": "Tifinaghe TawaltUnicode",
-        "file": "Tawalt/Tifinaghe-TawaltUnicode.ttf",
-        "category": "Tawalt"
-    },
-    {
-        "name": "Tifinaghe TawaltAmawalBold",
-        "file": "Tawalt/Tifinaghe-TawaltAmawalBold.ttf",
-        "category": "Tawalt"
-    },
-    {
-        "name": "Tifinaghe TawaltUnicode",
-        "file": "Tawalt/Tifinaghe-TawaltUnicode.otf",
-        "category": "Tawalt"
-    },
-    {
-        "name": "Tifinaghe TawaltAmawal",
-        "file": "Tawalt/Tifinaghe-TawaltAmawal.ttf",
-        "category": "Tawalt"
-    },
-    {
-        "name": "Tifinaghe TawaltAmawal",
-        "file": "Tawalt/Tifinaghe-TawaltAmawal.otf",
-        "category": "Tawalt"
-    },
-    {
-        "name": "TifinaghAdlis Aghilasafra Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghAdlis-Aghilasafra-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
+        "file": "fonts/TifinaghRevueUn-Bold.otf",
+        "category": "General"
     },
     {
         "name": "Tifinaghadlis 3+4 Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/Tifinaghadlis-3+4-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw Turarat Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Turarat-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw CawBoy Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-CawBoy-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghAdrar Tinmal Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghAdrar-Tinmal-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw Izri Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Izri-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw Tiranafus Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Tiranafus-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw Madghismadi Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Madghismadi-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw Kabawnafra Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Kabawnafra-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "Tifinaghinfusen Awal Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/Tifinaghinfusen-Awal-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw Tambult1 Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Tambult1-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw Hipssan Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Hipssan-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "Tifinaghinfusen AfusDegwfu Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/Tifinaghinfusen-AfusDegwfu-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw Ufas Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Ufas-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "Tifinaghinfusen Fursta Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/Tifinaghinfusen-Fursta-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw Talluntx Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Talluntx-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw Tairinngh Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Tairinngh-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKbaw Taness Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKbaw-Taness-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw Hipujan Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Hipujan-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw Hnibal Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Hnibal-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw ShiShnq Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-ShiShnq-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw Aghaniem Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Aghaniem-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw Raufalbaruny Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Raufalbaruny-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw Tayfa Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Tayfa-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw Ebrahimalhjaj Regular Asdad",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Ebrahimalhjaj-Regular-Asdad.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "Tifinaghinfusan Tandmira Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/Tifinaghinfusan-Tandmira-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw Talji Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Talji-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw Tilelli Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Tilelli-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghAdrar Masinissa Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghAdrar-Masinissa-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "Tifinaghinfusen Y3qubshriha 4 Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/Tifinaghinfusen-Y3qubshriha 4-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "Tifinaghinfusen Fursta1 Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/Tifinaghinfusen-Fursta1-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw Kholaalbruni Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Kholaalbruni-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "Tifinaghinfusen Lalutafra Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/Tifinaghinfusen-Lalutafra-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw Tayri Regular(1)",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Tayri-Regular(1).otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw Elias Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Elias-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw Dijtel Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Dijtel-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw Tanes Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Tanes-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw Knari Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Knari-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghAwal Tira Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghAwal-Tira-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw SaidSifaw Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-SaidSifaw-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghAdrar Muradk3oan Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghAdrar-Muradk3oan-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw TimCmet Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-TimCmet-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw Mnad Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Mnad-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw Wrwri Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Wrwri-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabawn Mckaken Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabawn-Mckaken-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw RmdanDamja Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-RmdanDamja-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw Borawyshriha Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Borawyshriha-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw KmalThraf Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-KmalThraf-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw AfkanAmzwar Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-AfkanAmzwar-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "Tifinaghinfusen Jmalbokar Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/Tifinaghinfusen-Jmalbokar-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghAwal Tirax Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghAwal-Tirax-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw Aksel Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Aksel-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw Tallunt Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Tallunt-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghAwal Tiraxx Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghAwal-Tiraxx-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw AmnaFont 2 Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-AmnaFont-2-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "Tifinaghinfusen Awalnagh Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/Tifinaghinfusen-Awalnagh-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw Tajdiggat Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Tajdiggat-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw Aksell Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Aksell-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw Amrwass Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Amrwass-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw Hip Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Hip-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw Thaghat Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Thaghat-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw Tambult0 Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Tambult0-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw Mckakennagh Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Mckakennagh-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw AzzgrarMshek Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-AzzgrarMshek-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw Mckaken Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Mckaken-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw MatoubLounas Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-MatoubLounas-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw Brga Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Brga-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw SirajEbrahim Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-SirajEbrahim-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw Yosafkasm Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Yosafkasm-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw Tamuort Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Tamuort-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw Kasmnajaa Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Kasmnajaa-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghAdrar Armass Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghAdrar-Armass-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "Tifinaghinfusen Lalut Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/Tifinaghinfusen-Lalut-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "Tifinaghinfusen AwalZ Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/Tifinaghinfusen-AwalZ-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "Tifinaghinfusen Ya3qubshrih Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/Tifinaghinfusen-Ya3qubshrih-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "Tifinaghinfusen wazn Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/Tifinaghinfusen-wazn-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "Tifinaghinfusen Afgan Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/Tifinaghinfusen-Afgan-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw ImirAfra Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-ImirAfra-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw Taghrma Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Taghrma-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw Tans v Italic",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Tans v-Italic.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw Hosamalhjaj Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Hosamalhjaj-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw Mohmedkrakozz2 Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Mohmedkrakozz2-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw Thghath Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Thghath-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghAdrar Agzul Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghAdrar-Agzul-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghAdrar Tasunit Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghAdrar-Tasunit-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "Tifinaghinfusen Y3qubshriha3 Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/Tifinaghinfusen-Y3qubshriha3-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw UL Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-UL-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "Tifinaghinfusen Tamngha Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/Tifinaghinfusen-Tamngha-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw Kabawnnagh Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Kabawnnagh-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw Afus Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Afus-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghAdrar Agraj Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghAdrar-Agraj-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw Russia2018 Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Russia2018-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw Kabawn Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Kabawn-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw Yugrta Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Yugrta-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw Hatamalbroni Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Hatamalbroni-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw Ilesntmura Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Ilesntmura-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw Tiniri Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Tiniri-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TfinaghKabaw Nfusa Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TfinaghKabaw-Nfusa-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw Hitmalbaruni Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Hitmalbaruni-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw Tans Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Tans-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw Agraw Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Agraw-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw Aimnalbaruni Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Aimnalbaruni-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "Tifinaghinfusen AwalnaghT Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/Tifinaghinfusen-AwalnaghT-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw Tbarun+1 Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Tbarun+1-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghAdlis Aghilas4 Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghAdlis-Aghilas4-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw Infusan Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Infusan-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghIRCAM Teddus Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghIRCAM-Teddus-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghAdrar Tira Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghAdrar-Tira-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghAdrar Latinamazigh Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghAdrar-Latinamazigh-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghAdrar FilemN Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghAdrar-FilemN-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw Turart Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Turart-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw Tadra Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Tadra-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw Azzgrar Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Azzgrar-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghAwal Tiranagh Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghAwal-Tiranagh-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw Tambult Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Tambult-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw Tebress Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Tebress-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghAwal Tiraix Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghAwal-Tiraix-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "Tifinaghinfusen Jaj Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/Tifinaghinfusen-Jaj-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw TimCmetafra Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-TimCmetafra-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw Azwad Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Azwad-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw Ithri Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Ithri-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw Agraj Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Agraj-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw Amghnas Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Amghnas-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw Tagrawla Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Tagrawla-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw TebressMcek Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-TebressMcek-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghAdrar Azdad 2 Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghAdrar-Azdad-2-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "Tifinaghinfusan Tmlushait Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/Tifinaghinfusan-Tmlushait-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw MsaudRubx Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-MsaudRubx-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "Tifinaghinfusen JajS Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/Tifinaghinfusen-JajS-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw Agrajafra Italic",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Agrajafra-Italic.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghAdrar Afusdfus Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghAdrar-Afusdfus-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw YliTifayuor Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-YliTifayuor-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "Tifinaghinfusen AwalnaghV Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/Tifinaghinfusen-AwalnaghV-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "Tifinaghinfusen Alqlat Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/Tifinaghinfusen-Alqlat-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw Tambultx Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Tambultx-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw Tabrat Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Tabrat-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw Tayri Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Tayri-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghAdrar Ari Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghAdrar-Ari-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghAdlis 1+2 Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghAdlis-1+2-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw NadarDawad Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-NadarDawad-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw AdelAlhjaj Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-AdelAlhjaj-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw Imir Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Imir-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "Tifinaghinfusen AfusDegwfus 1 Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/Tifinaghinfusen-AfusDegwfus 1-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw Tamikrest Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Tamikrest-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw Idmenazwad Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Idmenazwad-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw MohmedAlhjaj Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-MohmedAlhjaj-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw Hosamalhjajj Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Hosamalhjajj-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw Timcmett Regular Z",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Timcmett-Regular Z.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghAdrar Tazdit Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghAdrar-Tazdit-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "Tifinaghinfusen Tmlushaitafr Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/Tifinaghinfusen-Tmlushaitafr-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghAdrar Azdad Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghAdrar-Azdad-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw Thila Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Thila-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "Tifinaghinfusen Itran Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/Tifinaghinfusen-Itran-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw Ebrahimalhjaj Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Ebrahimalhjaj-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw TilelliRaz Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-TilelliRaz-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw Mazigh Bold",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Mazigh-Bold.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw NanaMaran Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-NanaMaran-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw Jumaakrkara Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Jumaakrkara-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw BorabyaaShriha Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-BorabyaaShriha-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw Masudrubx Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Masudrubx-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghAdrar Filem Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghAdrar-Filem-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghAdrar Almass Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghAdrar-Almass-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw Amna Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Amna-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "Tifinaghinfusen AfusDegwfus2 Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/Tifinaghinfusen-AfusDegwfus2-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "Tifinaghinfusan Jadu Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/Tifinaghinfusan-Jadu-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw Tihya Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Tihya-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghAdrar Afus Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghAdrar-Afus-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw Masinissa Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Masinissa-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw Sifax Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Sifax-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabawn MckakenNagh Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabawn-MckakenNagh-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghAdlis Assan Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghAdlis-Assan-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw Tojan Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Tojan-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghAdrar Aghilas Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghAdrar-Aghilas-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw Amrwas Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Amrwas-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw Jomasda Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Jomasda-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
-    },
-    {
-        "name": "TifinaghKabaw Tbarun Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Tbarun-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
+        "file": "fonts/Tifinaghadlis-3+4-Regular.otf",
+        "category": "General"
     },
     {
         "name": "Tifinaghadlis 5+6 Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/Tifinaghadlis-5+6-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
+        "file": "fonts/Tifinaghadlis-5+6-Regular.otf",
+        "category": "General"
     },
     {
-        "name": "TifinaghKabaw Knarai Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Knarai-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
+        "name": "Tifinaghe Ircam Unicode",
+        "file": "fonts/Tifinaghe-Ircam_Unicode.ttf",
+        "category": "IRCAM"
     },
     {
-        "name": "TifinaghKabaw Tikkrt Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghKabaw-Tikkrt-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
+        "name": "Tifinaghe IrcamUnicode Regular2",
+        "file": "fonts/Tifinaghe-IrcamUnicode-Regular2.otf",
+        "category": "IRCAM"
     },
     {
-        "name": "TifinaghAdrar Tifayur Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/TifinaghAdrar-Tifayur-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
+        "name": "Tifinaghe TawaltAmawal",
+        "file": "fonts/Tifinaghe-TawaltAmawal.ttf",
+        "category": "General"
+    },
+    {
+        "name": "Tifinaghe TawaltAmawal",
+        "file": "fonts/Tifinaghe-TawaltAmawal.otf",
+        "category": "General"
+    },
+    {
+        "name": "Tifinaghe TawaltAmawalBold",
+        "file": "fonts/Tifinaghe-TawaltAmawalBold.otf",
+        "category": "General"
+    },
+    {
+        "name": "Tifinaghe TawaltAmawalBold",
+        "file": "fonts/Tifinaghe-TawaltAmawalBold.ttf",
+        "category": "General"
+    },
+    {
+        "name": "Tifinaghe TawaltUnicode",
+        "file": "fonts/Tifinaghe-TawaltUnicode.ttf",
+        "category": "General"
+    },
+    {
+        "name": "Tifinaghe TawaltUnicode",
+        "file": "fonts/Tifinaghe-TawaltUnicode.otf",
+        "category": "General"
+    },
+    {
+        "name": "TifinagheAdar Regular",
+        "file": "fonts/TifinagheAdar-Regular.OTF",
+        "category": "General"
+    },
+    {
+        "name": "TifinagheAdar Regular",
+        "file": "fonts/TifinagheAdar-Regular.ttf",
+        "category": "General"
+    },
+    {
+        "name": "TifinagheAfraw Regular",
+        "file": "fonts/TifinagheAfraw-Regular.OTF",
+        "category": "General"
+    },
+    {
+        "name": "TifinagheAfraw Regular",
+        "file": "fonts/TifinagheAfraw-Regular.ttf",
+        "category": "General"
+    },
+    {
+        "name": "TifinagheAfrdis Regular",
+        "file": "fonts/TifinagheAfrdis-Regular.OTF",
+        "category": "General"
+    },
+    {
+        "name": "TifinagheAfrdis Regular",
+        "file": "fonts/TifinagheAfrdis-Regular.ttf",
+        "category": "General"
+    },
+    {
+        "name": "TifinagheAmkkuz Regular",
+        "file": "fonts/TifinagheAmkkuz-Regular.OTF",
+        "category": "General"
+    },
+    {
+        "name": "TifinagheAmkkuz Regular",
+        "file": "fonts/TifinagheAmkkuz-Regular.ttf",
+        "category": "General"
+    },
+    {
+        "name": "TifinagheAmnzu Regular",
+        "file": "fonts/TifinagheAmnzu-Regular.ttf",
+        "category": "General"
+    },
+    {
+        "name": "TifinagheAmnzu Regular",
+        "file": "fonts/TifinagheAmnzu-Regular.OTF",
+        "category": "General"
+    },
+    {
+        "name": "TifinagheAmsdag Regular",
+        "file": "fonts/TifinagheAmsdag-Regular.ttf",
+        "category": "General"
+    },
+    {
+        "name": "TifinagheAmsdag Regular",
+        "file": "fonts/TifinagheAmsdag-Regular.OTF",
+        "category": "General"
+    },
+    {
+        "name": "TifinagheAnagray Regular 0",
+        "file": "fonts/TifinagheAnagray-Regular_0.ttf",
+        "category": "General"
+    },
+    {
+        "name": "TifinagheAnagray Regular 0",
+        "file": "fonts/TifinagheAnagray-Regular_0.OTF",
+        "category": "General"
+    },
+    {
+        "name": "TifinagheAnamyar Regular",
+        "file": "fonts/TifinagheAnamyar-Regular.OTF",
+        "category": "General"
+    },
+    {
+        "name": "TifinagheAnamyar Regular",
+        "file": "fonts/TifinagheAnamyar-Regular.ttf",
+        "category": "General"
+    },
+    {
+        "name": "TifinagheAqurar Regular",
+        "file": "fonts/TifinagheAqurar-Regular.OTF",
+        "category": "General"
+    },
+    {
+        "name": "TifinagheAqurar Regular",
+        "file": "fonts/TifinagheAqurar-Regular.ttf",
+        "category": "General"
+    },
+    {
+        "name": "TifinagheTanumi Regular",
+        "file": "fonts/TifinagheTanumi-Regular.OTF",
+        "category": "General"
+    },
+    {
+        "name": "TifinagheTanumi Regular",
+        "file": "fonts/TifinagheTanumi-Regular.ttf",
+        "category": "General"
+    },
+    {
+        "name": "Tifinaghinfusan Jadu Regular",
+        "file": "fonts/Tifinaghinfusan-Jadu-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "Tifinaghinfusan Tandmira Regular",
+        "file": "fonts/Tifinaghinfusan-Tandmira-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "Tifinaghinfusan Tmlushait Regular",
+        "file": "fonts/Tifinaghinfusan-Tmlushait-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "Tifinaghinfusen Afgan Regular",
+        "file": "fonts/Tifinaghinfusen-Afgan-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "Tifinaghinfusen AfusDegwfu Regular",
+        "file": "fonts/Tifinaghinfusen-AfusDegwfu-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "Tifinaghinfusen AfusDegwfus 1 Regular",
+        "file": "fonts/Tifinaghinfusen-AfusDegwfus 1-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "Tifinaghinfusen AfusDegwfus2 Regular",
+        "file": "fonts/Tifinaghinfusen-AfusDegwfus2-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "Tifinaghinfusen Alqlat Regular",
+        "file": "fonts/Tifinaghinfusen-Alqlat-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "Tifinaghinfusen Awal Regular",
+        "file": "fonts/Tifinaghinfusen-Awal-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "Tifinaghinfusen AwalZ Regular",
+        "file": "fonts/Tifinaghinfusen-AwalZ-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "Tifinaghinfusen Awalnagh Regular",
+        "file": "fonts/Tifinaghinfusen-Awalnagh-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "Tifinaghinfusen AwalnaghT Regular",
+        "file": "fonts/Tifinaghinfusen-AwalnaghT-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "Tifinaghinfusen AwalnaghV Regular",
+        "file": "fonts/Tifinaghinfusen-AwalnaghV-Regular.otf",
+        "category": "General"
     },
     {
         "name": "Tifinaghinfusen Azru Regular",
-        "file": "Tawalt/Borawy 200 (Unicode)/Tifinaghinfusen-Azru-Regular.otf",
-        "category": "Tawalt/Borawy 200 (Unicode)"
+        "file": "fonts/Tifinaghinfusen-Azru-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "Tifinaghinfusen Fursta Regular",
+        "file": "fonts/Tifinaghinfusen-Fursta-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "Tifinaghinfusen Fursta1 Regular",
+        "file": "fonts/Tifinaghinfusen-Fursta1-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "Tifinaghinfusen Itran Regular",
+        "file": "fonts/Tifinaghinfusen-Itran-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "Tifinaghinfusen Jaj Regular",
+        "file": "fonts/Tifinaghinfusen-Jaj-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "Tifinaghinfusen JajS Regular",
+        "file": "fonts/Tifinaghinfusen-JajS-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "Tifinaghinfusen Jmalbokar Regular",
+        "file": "fonts/Tifinaghinfusen-Jmalbokar-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "Tifinaghinfusen Lalut Regular",
+        "file": "fonts/Tifinaghinfusen-Lalut-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "Tifinaghinfusen Lalutafra Regular",
+        "file": "fonts/Tifinaghinfusen-Lalutafra-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "Tifinaghinfusen Tamngha Regular",
+        "file": "fonts/Tifinaghinfusen-Tamngha-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "Tifinaghinfusen Tmlushaitafr Regular",
+        "file": "fonts/Tifinaghinfusen-Tmlushaitafr-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "Tifinaghinfusen Y3qubshriha 4 Regular",
+        "file": "fonts/Tifinaghinfusen-Y3qubshriha 4-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "Tifinaghinfusen Y3qubshriha3 Regular",
+        "file": "fonts/Tifinaghinfusen-Y3qubshriha3-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "Tifinaghinfusen Ya3qubshrih Regular",
+        "file": "fonts/Tifinaghinfusen-Ya3qubshrih-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "Tifinaghinfusen wazn Regular",
+        "file": "fonts/Tifinaghinfusen-wazn-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "Tinparis Regular",
+        "file": "fonts/Tinparis-Regular.ttf",
+        "category": "General"
+    },
+    {
+        "name": "Tinparis Regular",
+        "file": "fonts/Tinparis-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "Tintfalatin Regular",
+        "file": "fonts/Tintfalatin-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "Tintfalatin Regular",
+        "file": "fonts/Tintfalatin-Regular.ttf",
+        "category": "General"
+    },
+    {
+        "name": "TruetypewriterPolyglott mELa",
+        "file": "fonts/TruetypewriterPolyglott-mELa.ttf",
+        "category": "General"
+    },
+    {
+        "name": "VideoGlau.sfd",
+        "file": "fonts/VideoGlau.sfd.ttf",
+        "category": "General"
+    },
+    {
+        "name": "VideoGlauBold.sfd",
+        "file": "fonts/VideoGlauBold.sfd.ttf",
+        "category": "General"
+    },
+    {
+        "name": "YugurtenACEBHapax",
+        "file": "fonts/YugurtenACEBHapax.ttf",
+        "category": "General"
+    },
+    {
+        "name": "agrawlan",
+        "file": "fonts/agrawlan.ttf",
+        "category": "General"
+    },
+    {
+        "name": "amanar",
+        "file": "fonts/amanar.ttf",
+        "category": "General"
+    },
+    {
+        "name": "anaruz",
+        "file": "fonts/anaruz.ttf",
+        "category": "General"
+    },
+    {
+        "name": "anaruz sin",
+        "file": "fonts/anaruz_sin.ttf",
+        "category": "General"
+    },
+    {
+        "name": "anaviz",
+        "file": "fonts/anaviz.ttf",
+        "category": "General"
+    },
+    {
+        "name": "anbraz",
+        "file": "fonts/anbraz.ttf",
+        "category": "General"
+    },
+    {
+        "name": "azmznozro",
+        "file": "fonts/azmznozro.ttf",
+        "category": "General"
+    },
+    {
+        "name": "cactus",
+        "file": "fonts/cactus.ttf",
+        "category": "General"
+    },
+    {
+        "name": "caligraphie",
+        "file": "fonts/caligraphie.ttf",
+        "category": "General"
+    },
+    {
+        "name": "coupure",
+        "file": "fonts/coupure.ttf",
+        "category": "General"
+    },
+    {
+        "name": "damase v.2",
+        "file": "fonts/damase_v.2.ttf",
+        "category": "General"
+    },
+    {
+        "name": "ebrima",
+        "file": "fonts/ebrima.ttf",
+        "category": "General"
+    },
+    {
+        "name": "ebrima bold",
+        "file": "fonts/ebrima_bold.ttf",
+        "category": "General"
+    },
+    {
+        "name": "ebrimabd",
+        "file": "fonts/ebrimabd.ttf",
+        "category": "General"
+    },
+    {
+        "name": "fedratifinagh",
+        "file": "fonts/fedratifinagh.otf",
+        "category": "General"
+    },
+    {
+        "name": "fedratifinagh",
+        "file": "fonts/fedratifinagh.ttf",
+        "category": "General"
+    },
+    {
+        "name": "ferforge",
+        "file": "fonts/ferforge.ttf",
+        "category": "General"
+    },
+    {
+        "name": "font A",
+        "file": "fonts/font_A.ttf",
+        "category": "General"
+    },
+    {
+        "name": "font B",
+        "file": "fonts/font_B.ttf",
+        "category": "General"
+    },
+    {
+        "name": "goute",
+        "file": "fonts/goute.ttf",
+        "category": "General"
+    },
+    {
+        "name": "hapaxber 6.1",
+        "file": "fonts/hapaxber-6.1.ttf",
+        "category": "General"
+    },
+    {
+        "name": "hapaxber.ttf",
+        "file": "fonts/hapaxber.ttf.otf",
+        "category": "General"
+    },
+    {
+        "name": "inknign",
+        "file": "fonts/inknign.ttf",
+        "category": "General"
+    },
+    {
+        "name": "izriri",
+        "file": "fonts/izriri.ttf",
+        "category": "General"
+    },
+    {
+        "name": "maghribi",
+        "file": "fonts/maghribi.ttf",
+        "category": "General"
+    },
+    {
+        "name": "pointu",
+        "file": "fonts/pointu.ttf",
+        "category": "General"
+    },
+    {
+        "name": "tahoma",
+        "file": "fonts/tahoma.ttf",
+        "category": "General"
+    },
+    {
+        "name": "tidfi",
+        "file": "fonts/tidfi.ttf",
+        "category": "General"
+    },
+    {
+        "name": "tifi",
+        "file": "fonts/tifi.ttf",
+        "category": "General"
+    },
+    {
+        "name": "tifilit Regular",
+        "file": "fonts/tifilit-Regular.ttf",
+        "category": "General"
+    },
+    {
+        "name": "tifilit Regular",
+        "file": "fonts/tifilit-Regular.otf",
+        "category": "General"
+    },
+    {
+        "name": "tifinagh abudrar normal web",
+        "file": "fonts/tifinagh abudrar normal web.ttf",
+        "category": "General"
+    },
+    {
+        "name": "tinmlt",
+        "file": "fonts/tinmlt.ttf",
+        "category": "General"
+    },
+    {
+        "name": "tinmlt sin",
+        "file": "fonts/tinmlt_sin.ttf",
+        "category": "General"
+    },
+    {
+        "name": "totem",
+        "file": "fonts/totem.ttf",
+        "category": "General"
     }
 ]

@@ -52,6 +52,13 @@
                     <input type="range" id="fontSizeRange" min="12" max="120" value="40">
                     <span id="fontSizeValue">40px</span>
                 </div>
+
+                <div class="extras-box">
+                    <label class="fav-filter">
+                        <input type="checkbox" id="showFavorites">
+                        <span data-i18n="showFavorites">المفضلة فقط</span>
+                    </label>
+                </div>
             </div>
         </div>
     </header>
@@ -61,11 +68,27 @@
             <!-- Font cards will be injected here -->
             <div class="loading" data-i18n="loading">جاري تحميل الخطوط...</div>
         </div>
-
+        
         <div id="loadMoreContainer" class="load-more-container" style="display: none;">
             <button id="loadMoreBtn" class="btn-primary" data-i18n="loadMore">تحميل المزيد</button>
         </div>
     </main>
+
+    <!-- Modal for Character Map -->
+    <div id="charMapModal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2 id="modalFontName">Character Map</h2>
+                <button class="close-modal">&times;</button>
+            </div>
+            <div class="modal-body">
+                <div id="charGrid" class="char-grid"></div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Notification Toast -->
+    <div id="toast" class="toast"></div>
 
     <footer class="main-footer">
         <div class="container">
