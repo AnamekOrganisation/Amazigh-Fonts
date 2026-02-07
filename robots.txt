@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://anamekorganisation.github.io/Amazigh-Fonts/sitemap.xml
