@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="zgh" dir="ltr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tifinagh Fonts - معاينة وتحميل خطوط الأمازيغية</title>
+    <link rel="stylesheet" href="style.css">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Outfit:wght@400;600;700&display=swap"
+        rel="stylesheet">
+</head>
+
+<body>
+    <header class="main-header">
+        <div class="container">
+            <div class="header-top">
+                <div class="logo-area">
+                    <h1 data-i18n="title">خطوط تيفيناغ</h1>
+                    <p data-i18n="subtitle">مجموعة شاملة من خطوط الأمازيغية للمصممين والمطورين</p>
+                </div>
+                <div class="lang-switcher">
+                    <button class="lang-btn" data-lang="ar">العربية</button>
+                    <button class="lang-btn" data-lang="en">English</button>
+                    <button class="lang-btn" data-lang="fr">Français</button>
+                    <button class="lang-btn" data-lang="zgh">ⵜⴰⵎⴰⵣⵉⵖⵜ</button>
+                </div>
+            </div>
+
+            <div class="controls-bar">
+                <div class="search-box">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none"
+                        stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                        <circle cx="11" cy="11" r="8"></circle>
+                        <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+                    </svg>
+                    <input type="text" id="fontSearch" data-i18n-placeholder="searchPlaceholder" placeholder="ابحث عن خط...">
+                </div>
+
+                <div class="filter-box">
+                    <select id="categoryFilter">
+                        <option value="all" data-i18n="allCategories">جميع الفئات</option>
+                        <!-- Categories will be populated by JS -->
+                    </select>
+                </div>
+
+                <div class="preview-text-box">
+                    <input type="text" id="previewTextInput" data-i18n-placeholder="previewPlaceholder" placeholder="نص المعاينة..." value="ⴰⵣⵓⵍ ⴼⵍⵍⴰⵡⵏ ⴳ ⵓⵏⴰⵎⴽ">
+                </div>
+
+                <div class="font-size-box">
+                    <input type="range" id="fontSizeRange" min="12" max="120" value="40">
+                    <span id="fontSizeValue">40px</span>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <main class="container">
+        <div id="fontsGrid" class="fonts-grid">
+            <!-- Font cards will be injected here -->
+            <div class="loading" data-i18n="loading">جاري تحميل الخطوط...</div>
+        </div>
+
+        <div id="loadMoreContainer" class="load-more-container" style="display: none;">
+            <button id="loadMoreBtn" class="btn-primary" data-i18n="loadMore">تحميل المزيد</button>
+        </div>
+    </main>
+
+    <footer class="main-footer">
+        <div class="container">
+            <p data-i18n="footerText">&copy; 2026 Unicode Fonts For Amazigh Tifinagh. جميع الحقوق محفوظة.</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
