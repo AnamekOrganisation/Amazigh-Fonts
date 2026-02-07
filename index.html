@@ -13,51 +13,54 @@
 
 <body>
     <header class="main-header">
-        <div class="container">
+        <div class="header-inner container">
             <div class="header-top">
-                <div class="logo-area">
+                <div class="logo-brand">
                     <h1 data-i18n="title">خطوط تيفيناغ</h1>
-                    <p data-i18n="subtitle">مجموعة شاملة من خطوط الأمازيغية للمصممين والمطورين</p>
+                    <p data-i18n="subtitle">ⵜⴰⴳⵔⵓⵎⵎⴰ ⵜⴰⵎⴰⵜⴰⵢⵜ ⵏ ⵉⵙⴽⴽⵉⵍⵏ ⵏ ⵜⵎⴰⵣⵉⵖⵜ</p>
                 </div>
-                <div class="lang-switcher">
-                    <button class="lang-btn" data-lang="ar">العربية</button>
-                    <button class="lang-btn" data-lang="en">English</button>
-                    <button class="lang-btn" data-lang="fr">Français</button>
-                    <button class="lang-btn" data-lang="zgh">ⵜⴰⵎⴰⵣⵉⵖⵜ</button>
+                
+                <div class="header-actions">
+                    <div class="lang-switcher">
+                        <button class="lang-btn" data-lang="ar">AR</button>
+                        <button class="lang-btn" data-lang="en">EN</button>
+                        <button class="lang-btn" data-lang="fr">FR</button>
+                        <button class="lang-btn" data-lang="zgh">ⵣⵖ</button>
+                    </div>
+                    
+                    <button id="toggleFavsBtn" class="btn-fav-toggle" data-i18n-title="showFavorites">
+                        <svg viewBox="0 0 24 24"><path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"/></svg>
+                        <span id="favCount" class="badge">0</span>
+                    </button>
                 </div>
             </div>
 
-            <div class="controls-bar">
-                <div class="search-box">
-                    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none"
-                        stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                        <circle cx="11" cy="11" r="8"></circle>
-                        <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
-                    </svg>
-                    <input type="text" id="fontSearch" data-i18n-placeholder="searchPlaceholder" placeholder="ابحث عن خط...">
+            <div class="toolbar shadow-sm">
+                <div class="toolbar-search">
+                    <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+                    <input type="text" id="fontSearch" data-i18n-placeholder="searchPlaceholder" placeholder="Search fonts...">
                 </div>
 
-                <div class="filter-box">
+                <div class="toolbar-divider"></div>
+
+                <div class="toolbar-category">
                     <select id="categoryFilter">
-                        <option value="all" data-i18n="allCategories">جميع الفئات</option>
-                        <!-- Categories will be populated by JS -->
+                        <option value="all" data-i18n="allCategories">Categories</option>
                     </select>
                 </div>
 
-                <div class="preview-text-box">
-                    <input type="text" id="previewTextInput" data-i18n-placeholder="previewPlaceholder" placeholder="نص المعاينة..." value="ⴰⵣⵓⵍ ⴼⵍⵍⴰⵡⵏ ⴳ ⵓⵏⴰⵎⴽ">
+                <div class="toolbar-divider"></div>
+
+                <div class="toolbar-preview">
+                    <input type="text" id="previewTextInput" data-i18n-placeholder="previewPlaceholder" placeholder="Type something..." value="ⴰⵣⵓⵍ ⴼⵍⵍⴰⵡⵏ ⴳ ⵓⵏⴰⵎⴽ">
                 </div>
 
-                <div class="font-size-box">
+                <div class="toolbar-divider"></div>
+
+                <div class="toolbar-size">
+                    <span class="size-label">12</span>
                     <input type="range" id="fontSizeRange" min="12" max="120" value="40">
-                    <span id="fontSizeValue">40px</span>
-                </div>
-
-                <div class="extras-box">
-                    <label class="fav-filter">
-                        <input type="checkbox" id="showFavorites">
-                        <span data-i18n="showFavorites">المفضلة فقط</span>
-                    </label>
+                    <span id="fontSizeValue" class="size-value">40px</span>
                 </div>
             </div>
         </div>
@@ -95,6 +98,10 @@
             <p data-i18n="footerText">&copy; 2026 Unicode Fonts For Amazigh Tifinagh. جميع الحقوق محفوظة.</p>
         </div>
     </footer>
+
+    <button id="backToTop" class="btn-top" title="Back to top">
+        <svg viewBox="0 0 24 24"><path d="M7 14l5-5 5 5H7z"/></svg>
+    </button>
 
     <script src="script.js"></script>
 </body>

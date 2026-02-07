@@ -8,7 +8,8 @@ document.addEventListener('DOMContentLoaded', () => {
     const loadMoreBtn = document.getElementById('loadMoreBtn');
     const loadMoreContainer = document.getElementById('loadMoreContainer');
     const langBtns = document.querySelectorAll('.lang-btn');
-    const showFavoritesCheckbox = document.getElementById('showFavorites');
+    const toggleFavsBtn = document.getElementById('toggleFavsBtn');
+    const favCountEl = document.getElementById('favCount');
     const charMapModal = document.getElementById('charMapModal');
     const charGrid = document.getElementById('charGrid');
     const modalFontName = document.getElementById('modalFontName');
@@ -102,8 +103,9 @@ document.addEventListener('DOMContentLoaded', () => {
     for (let i = 0x2D30; i <= 0x2D67; i++) tifinaghChars.push(String.fromCharCode(i));
     for (let i = 0x2D6F; i <= 0x2D7F; i++) tifinaghChars.push(String.fromCharCode(i));
 
-    // Initialize language
+    // Initialize language & UI
     setLanguage(currentLang);
+    updateFavCount();
 
     // Load fonts data
     fetch('fonts.json')
@@ -141,10 +143,17 @@ document.addEventListener('DOMContentLoaded', () => {
             el.placeholder = translations[lang][key] || el.placeholder;
         });
 
+        // Update titles
+        if (toggleFavsBtn) toggleFavsBtn.title = translations[lang].showFavorites;
+
         // Update cards dynamic text
         document.querySelectorAll('.btn-download span.dl-text').forEach(el => el.textContent = translations[lang].download);
         document.querySelectorAll('.btn-copy-css span').forEach(el => el.textContent = translations[lang].copyCSS);
         document.querySelectorAll('.btn-char-map span').forEach(el => el.textContent = translations[lang].charMap);
+    }
+
+    function updateFavCount() {
+        if (favCountEl) favCountEl.textContent = favorites.length;
     }
 
     function toggleFavorite(fontFile, btn) {
@@ -155,8 +164,9 @@ document.addEventListener('DOMContentLoaded', () => {
         } else {
             favorites.splice(index, 1);
             btn.classList.remove('active');
-            if (showFavoritesCheckbox.checked) filterFonts();
+            if (toggleFavsBtn.classList.contains('active')) filterFonts();
         }
+        updateFavCount();
         localStorage.setItem('tifinaghFavs', JSON.stringify(favorites));
     }
 
@@ -275,7 +285,11 @@ document.addEventListener('DOMContentLoaded', () => {
     langBtns.forEach(btn => btn.onclick = () => setLanguage(btn.dataset.lang));
     fontSearch.oninput = debounce(filterFonts, 300);
     categoryFilter.onchange = filterFonts;
-    showFavoritesCheckbox.onchange = filterFonts;
+    
+    toggleFavsBtn.onclick = () => {
+        toggleFavsBtn.classList.toggle('active');
+        filterFonts();
+    };
 
     previewTextInput.oninput = () => {
         const text = previewTextInput.value || 'ⴰⵣⵓⵍ ⴼⵍⵍⴰⵡⵏ ⴳ ⵓⵏⴰⵎⴽ';
@@ -300,10 +314,23 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     };
 
+    // Back to Top logic
+    const backToTopBtn = document.getElementById('backToTop');
+    window.onscroll = () => {
+        if (window.scrollY > 300) {
+            backToTopBtn.classList.add('visible');
+        } else {
+            backToTopBtn.classList.remove('visible');
+        }
+    };
+    backToTopBtn.onclick = () => {
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+    };
+
     function filterFonts() {
         const searchTerm = fontSearch.value.toLowerCase();
         const cat = categoryFilter.value;
-        const favOnly = showFavoritesCheckbox.checked;
+        const favOnly = toggleFavsBtn.classList.contains('active');
         
         filteredFonts = allFonts.filter(f => {
             const matchesSearch = f.name.toLowerCase().includes(searchTerm);
