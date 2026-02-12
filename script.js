@@ -241,7 +241,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 </div>
                 <div class="font-preview">
                     <div class="font-preview-text" style="font-family: '${fontId}'; font-size: ${fontSizeRange.value}px;">
-                        ${previewTextInput.value || 'ⴰⵣⵓⵍ ⴼⵍⵍⴰⵡⵏ ⴳ ⵓⵏⴰⵎⴽ'}
+                        ${previewTextInput.value || 'ⴰⵣⵓⵍ ⵉⵎⴰⵣⵉⵖⵏ'}
                     </div>
                 </div>
                 <div class="font-actions">
@@ -292,7 +292,7 @@ document.addEventListener('DOMContentLoaded', () => {
     };
 
     previewTextInput.oninput = () => {
-        const text = previewTextInput.value || 'ⴰⵣⵓⵍ ⴼⵍⵍⴰⵡⵏ ⴳ ⵓⵏⴰⵎⴽ';
+        const text = previewTextInput.value || 'ⴰⵣⵓⵍ ⵉⵎⴰⵣⵉⵖⵏ';
         document.querySelectorAll('.font-preview-text').forEach(el => el.textContent = text);
     };
 
