@@ -71,23 +71,24 @@ document.addEventListener('DOMContentLoaded', () => {
             showFavorites: 'Favoris uniquement',
             copied: 'CSS copié !'
         },
+      
         zgh: {
             title: 'ⵉⵙⴽⴽⵉⵍⵏ ⵏ ⵜⵉⴼⵉⵏⴰⵖ',
             subtitle: 'ⵜⴰⴳⵔⵓⵎⵎⴰ ⵜⴰⵎⴰⵜⴰⵢⵜ ⵏ ⵉⵙⴽⴽⵉⵍⵏ ⵏ ⵜⵎⴰⵣⵉⵖⵜ',
-            searchPlaceholder: 'ⵔⵣⵓ ⴼ ⵓⵙⴽⴽⵉⵍ...',
-            allCategories: 'ⵎⴰⵕⵕⴰ ⵜⵉⴳⵔⵓⵎⵎⵉⵡⵉⵏ',
-            previewPlaceholder: 'ⴰⴹⵕⵉⵚ ⵏ ⵓⵙⴼⵙⵔ...',
-            loading: 'ⴰⵣⴷⴰⵢ ⵏ ⵉⵙⴽⴽⵉⵍⵏ...',
-            loadMore: 'ⴰⵣⴷⴰⵢ ⵢⴰⴹⵏ',
-            download: 'ⴰⴳⴰⵎ',
-            footerText: '© 2026 Unicode Fonts For Amazigh Tifinagh. ⵎⴰⵕⵕⴰ ⵉⵣⵔⴼⴰⵏ ⵓⴳⴳⵉⵏ.',
-            noFonts: 'ⵓⵔ ⵏⵓⴼⵉ ⴰⵎⵢⴰⵏ ⵏ ⵓⵙⴽⴽⵉⵍ.',
-            error: 'ⵜⵍⵍⴰ ⵜⴳⵓⵔⵉ ⴳ ⵓⵣⴷⴰⵢ ⵏ ⵉⵙⴼⴽⴰ.',
-            filtering: 'ⴰⵣⵔⴰⵔ...',
-            copyCSS: 'ⴰⴳⴰⵎ ⵏ CSS',
+            searchPlaceholder: 'ⵔⵣⵓ ⵅⴼ ⵓⵙⴽⴽⵉⵍ...',
+            allCategories: 'ⵎⴰⵕⵕⴰ ⵉⵙⵎⵉⵍⵏ',
+            previewPlaceholder: 'ⴰⴹⵕⵉⵚ ⵏ ⵓⵙⴽⵏ...',
+            loading: 'ⵥⵕ ⵓⴳⴳⴰⵔ ⵏ ⵉⵙⴽⴽⵉⵍⵏ...',
+            loadMore: 'ًⵥⵕ ⵓⴳⴳⴰⵔ',
+            download: 'ⴰⴳⵎ',
+            footerText: '© 2026 Unicode Fonts For Amazigh Tifinagh. All rights reserved.',
+            noFonts: 'ⵓⵔ ⵏⵓⴼⵉ ⴰⵙⴽⴽⵉⵍ ⴰⴷ.',
+            error: 'ⵉⵍⵍⴰ ⵓⵣⴳⵍ ⴳ ⵡⴰⴳⴰⵎ ⵏ ⵓⵙⴽⴽⵉⵍ .',
+            filtering: 'ⴰⵙⵜⴰⵢ...',
+            copyCSS: 'ⵙⵙⵏⵖⵍ CSS',
             charMap: 'ⵉⵙⴽⴽⵉⵍⵏ',
-            showFavorites: 'ⵉⴱⵓⵀⵍⵢⵏ ⴷⴰⴽⴰⵏ',
-            copied: 'ⵜⴻⵎⵎⴰ ⵜⵓⴳⴳⵓⵜ ⵏ CSS!'
+            showFavorites: 'ⵙⴽⵏ ⵉⵙⵎⵢⴰⴼⴰⵏ',
+            copied: 'CSS ⵉⵜⵜⵓⵙⵙⵏⵖⵍ!'
         }
     };
 
