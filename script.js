@@ -242,7 +242,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 </div>
                 <div class="font-preview">
                     <div class="font-preview-text" style="font-family: '${fontId}'; font-size: ${fontSizeRange.value}px;">
-                        ${previewTextInput.value || 'ⴰⵣⵓⵍ ⴼⵍⵍⴰⵡⵏ ⴳ ⵓⵏⴰⵎⴽ'}
+                        ${previewTextInput.value || 'ⴰⵣⵓⵍ ⵉⵎⴰⵣⵉⵖⵏ'}
                     </div>
                 </div>
                 <div class="font-actions">
