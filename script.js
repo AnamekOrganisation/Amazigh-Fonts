@@ -293,7 +293,7 @@ document.addEventListener('DOMContentLoaded', () => {
     };
 
     previewTextInput.oninput = () => {
-        const text = previewTextInput.value || 'ⴰⵣⵓⵍ ⴼⵍⵍⴰⵡⵏ ⴳ ⵓⵏⴰⵎⴽ';
+        const text = previewTextInput.value || 'ⴰⵣⵓⵍ ⵉⵎⴰⵣⵉⵖⵏ';
         document.querySelectorAll('.font-preview-text').forEach(el => el.textContent = text);
     };
 
